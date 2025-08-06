@@ -1,0 +1,1002 @@
+[
+    {
+        "date": "2025-07-08",
+        "region": "Thiès",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 494.85,
+        "volume_kg": 1189,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-24",
+        "region": "Dakar",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 532.61,
+        "volume_kg": 1125,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-16",
+        "region": "Saint-Louis",
+        "produit": "Oignon",
+        "prix_fcfa_kg": 195.83,
+        "volume_kg": 1221,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-20",
+        "region": "Kaolack",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 342.34,
+        "volume_kg": 1603,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-21",
+        "region": "Kaolack",
+        "produit": "Riz",
+        "prix_fcfa_kg": 628.16,
+        "volume_kg": 643,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-16",
+        "region": "Saint-Louis",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 345.64,
+        "volume_kg": 1523,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-23",
+        "region": "Kolda",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 264.92,
+        "volume_kg": 1753,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-08",
+        "region": "Kaolack",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 706.65,
+        "volume_kg": 734,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-02",
+        "region": "Ziguinchor",
+        "produit": "Riz",
+        "prix_fcfa_kg": 608.73,
+        "volume_kg": 952,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-31",
+        "region": "Fatick",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 796.54,
+        "volume_kg": 1780,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-01",
+        "region": "Tambacounda",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 354.89,
+        "volume_kg": 1197,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-05",
+        "region": "Saint-Louis",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 403.31,
+        "volume_kg": 133,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-26",
+        "region": "Tambacounda",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 532.18,
+        "volume_kg": 993,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-29",
+        "region": "Fatick",
+        "produit": "Riz",
+        "prix_fcfa_kg": 417.57,
+        "volume_kg": 1019,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-20",
+        "region": "Kolda",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 134.75,
+        "volume_kg": 1265,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-02",
+        "region": "Kolda",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 429.57,
+        "volume_kg": 1125,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-23",
+        "region": "Saint-Louis",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 142.94,
+        "volume_kg": 900,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-01",
+        "region": "Fatick",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 764.63,
+        "volume_kg": 1564,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-05",
+        "region": "Kolda",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 614.05,
+        "volume_kg": 1711,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-11",
+        "region": "Kolda",
+        "produit": "Riz",
+        "prix_fcfa_kg": 340.02,
+        "volume_kg": 223,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-20",
+        "region": "Thiès",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 486.55,
+        "volume_kg": 332,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-18",
+        "region": "Ziguinchor",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 303.98,
+        "volume_kg": 1846,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-09",
+        "region": "Dakar",
+        "produit": "Oignon",
+        "prix_fcfa_kg": 766.06,
+        "volume_kg": 367,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-21",
+        "region": "Saint-Louis",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 283.06,
+        "volume_kg": 1852,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-16",
+        "region": "Tambacounda",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 338.64,
+        "volume_kg": 948,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-26",
+        "region": "Thiès",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 352.89,
+        "volume_kg": 1913,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-01",
+        "region": "Ziguinchor",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 508.9,
+        "volume_kg": 1937,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-21",
+        "region": "Thiès",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 202.05,
+        "volume_kg": 1426,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-28",
+        "region": "Dakar",
+        "produit": "Oignon",
+        "prix_fcfa_kg": 457.24,
+        "volume_kg": 794,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-08",
+        "region": "Thiès",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 116.16,
+        "volume_kg": 1018,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-15",
+        "region": "Fatick",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 526.03,
+        "volume_kg": 697,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-31",
+        "region": "Thiès",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 312.52,
+        "volume_kg": 885,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-27",
+        "region": "Thiès",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 621.47,
+        "volume_kg": 1650,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-04",
+        "region": "Kolda",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 747.61,
+        "volume_kg": 376,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-08",
+        "region": "Ziguinchor",
+        "produit": "Mil",
+        "prix_fcfa_kg": 619.86,
+        "volume_kg": 285,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-15",
+        "region": "Ziguinchor",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 448.0,
+        "volume_kg": 1524,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-11",
+        "region": "Thiès",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 271.71,
+        "volume_kg": 1190,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-23",
+        "region": "Thiès",
+        "produit": "Oignon",
+        "prix_fcfa_kg": 178.25,
+        "volume_kg": 1937,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-04",
+        "region": "Kaolack",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 213.49,
+        "volume_kg": 932,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-27",
+        "region": "Thiès",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 266.94,
+        "volume_kg": 573,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-21",
+        "region": "Kaolack",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 364.38,
+        "volume_kg": 676,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-02",
+        "region": "Fatick",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 309.27,
+        "volume_kg": 300,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-21",
+        "region": "Ziguinchor",
+        "produit": "Riz",
+        "prix_fcfa_kg": 425.72,
+        "volume_kg": 1253,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-29",
+        "region": "Saint-Louis",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 593.43,
+        "volume_kg": 1682,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-11",
+        "region": "Kolda",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 319.34,
+        "volume_kg": 338,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-22",
+        "region": "Saint-Louis",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 239.65,
+        "volume_kg": 1068,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-25",
+        "region": "Kolda",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 752.65,
+        "volume_kg": 1586,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-08",
+        "region": "Kolda",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 574.66,
+        "volume_kg": 1800,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-24",
+        "region": "Dakar",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 286.19,
+        "volume_kg": 1501,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-09",
+        "region": "Kaolack",
+        "produit": "Riz",
+        "prix_fcfa_kg": 494.92,
+        "volume_kg": 447,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-10",
+        "region": "Fatick",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 749.89,
+        "volume_kg": 393,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-28",
+        "region": "Fatick",
+        "produit": "Riz",
+        "prix_fcfa_kg": 734.83,
+        "volume_kg": 303,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-07",
+        "region": "Ziguinchor",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 630.86,
+        "volume_kg": 1904,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-13",
+        "region": "Tambacounda",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 324.61,
+        "volume_kg": 1432,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-20",
+        "region": "Dakar",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 417.24,
+        "volume_kg": 1897,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-04",
+        "region": "Thiès",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 607.28,
+        "volume_kg": 1439,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-29",
+        "region": "Dakar",
+        "produit": "Mil",
+        "prix_fcfa_kg": 235.73,
+        "volume_kg": 572,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-04",
+        "region": "Kaolack",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 614.62,
+        "volume_kg": 1095,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-12",
+        "region": "Fatick",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 721.84,
+        "volume_kg": 475,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-12",
+        "region": "Dakar",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 268.23,
+        "volume_kg": 634,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-27",
+        "region": "Thiès",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 720.44,
+        "volume_kg": 500,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-29",
+        "region": "Saint-Louis",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 151.63,
+        "volume_kg": 844,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-07",
+        "region": "Thiès",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 754.16,
+        "volume_kg": 1068,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-24",
+        "region": "Fatick",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 118.27,
+        "volume_kg": 875,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-12",
+        "region": "Fatick",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 354.01,
+        "volume_kg": 1204,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-07",
+        "region": "Thiès",
+        "produit": "Riz",
+        "prix_fcfa_kg": 639.63,
+        "volume_kg": 252,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-07",
+        "region": "Fatick",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 188.97,
+        "volume_kg": 1754,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-16",
+        "region": "Ziguinchor",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 485.51,
+        "volume_kg": 1464,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-18",
+        "region": "Tambacounda",
+        "produit": "Arachide",
+        "prix_fcfa_kg": 215.58,
+        "volume_kg": 1566,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-23",
+        "region": "Kolda",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 790.15,
+        "volume_kg": 284,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-19",
+        "region": "Thiès",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 346.59,
+        "volume_kg": 1451,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-21",
+        "region": "Kolda",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 708.23,
+        "volume_kg": 779,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-20",
+        "region": "Tambacounda",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 664.05,
+        "volume_kg": 1764,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-31",
+        "region": "Tambacounda",
+        "produit": "Mil",
+        "prix_fcfa_kg": 700.69,
+        "volume_kg": 1539,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-10",
+        "region": "Thiès",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 396.54,
+        "volume_kg": 1103,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-14",
+        "region": "Tambacounda",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 441.19,
+        "volume_kg": 182,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-11",
+        "region": "Dakar",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 719.54,
+        "volume_kg": 1255,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-25",
+        "region": "Thiès",
+        "produit": "Oignon",
+        "prix_fcfa_kg": 593.83,
+        "volume_kg": 1440,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-20",
+        "region": "Kaolack",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 755.23,
+        "volume_kg": 1059,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-09",
+        "region": "Ziguinchor",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 157.22,
+        "volume_kg": 612,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-28",
+        "region": "Thiès",
+        "produit": "Mil",
+        "prix_fcfa_kg": 640.73,
+        "volume_kg": 1628,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-03",
+        "region": "Saint-Louis",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 444.36,
+        "volume_kg": 1493,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-11",
+        "region": "Dakar",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 261.58,
+        "volume_kg": 1182,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-09",
+        "region": "Thiès",
+        "produit": "Riz",
+        "prix_fcfa_kg": 438.18,
+        "volume_kg": 525,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-27",
+        "region": "Kolda",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 653.38,
+        "volume_kg": 428,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-15",
+        "region": "Tambacounda",
+        "produit": "Riz",
+        "prix_fcfa_kg": 313.91,
+        "volume_kg": 229,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-31",
+        "region": "Saint-Louis",
+        "produit": "Maïs",
+        "prix_fcfa_kg": 115.87,
+        "volume_kg": 667,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-14",
+        "region": "Dakar",
+        "produit": "Mil",
+        "prix_fcfa_kg": 749.14,
+        "volume_kg": 337,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-08-04",
+        "region": "Fatick",
+        "produit": "Mil",
+        "prix_fcfa_kg": 444.5,
+        "volume_kg": 255,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-16",
+        "region": "Thiès",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 187.58,
+        "volume_kg": 1002,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-18",
+        "region": "Thiès",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 168.78,
+        "volume_kg": 1469,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-14",
+        "region": "Ziguinchor",
+        "produit": "Mil",
+        "prix_fcfa_kg": 696.54,
+        "volume_kg": 707,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-25",
+        "region": "Dakar",
+        "produit": "Niébé",
+        "prix_fcfa_kg": 550.54,
+        "volume_kg": 340,
+        "marche": "Marché Saloum",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-21",
+        "region": "Dakar",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 654.72,
+        "volume_kg": 1268,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-22",
+        "region": "Ziguinchor",
+        "produit": "Bissap",
+        "prix_fcfa_kg": 789.92,
+        "volume_kg": 1482,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-08",
+        "region": "Dakar",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 464.55,
+        "volume_kg": 267,
+        "marche": "Marché Kaolack",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-14",
+        "region": "Dakar",
+        "produit": "Riz",
+        "prix_fcfa_kg": 673.27,
+        "volume_kg": 1549,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-31",
+        "region": "Saint-Louis",
+        "produit": "Riz",
+        "prix_fcfa_kg": 719.95,
+        "volume_kg": 841,
+        "marche": "Marché Tilène",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-19",
+        "region": "Kaolack",
+        "produit": "Sorgho",
+        "prix_fcfa_kg": 234.79,
+        "volume_kg": 1618,
+        "marche": "Marché Castors",
+        "devise": "FCFA",
+        "source": "simulation"
+    },
+    {
+        "date": "2025-07-28",
+        "region": "Kaolack",
+        "produit": "Tomate",
+        "prix_fcfa_kg": 451.2,
+        "volume_kg": 1187,
+        "marche": "Marché Sandaga",
+        "devise": "FCFA",
+        "source": "simulation"
+    }
+]

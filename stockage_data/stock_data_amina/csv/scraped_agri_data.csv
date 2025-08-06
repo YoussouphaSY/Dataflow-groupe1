@@ -1,0 +1,1093 @@
+date,produit,region,prix_fcfa_kg,volume_kg
+2019,2019-01,31/01/2019,Mil,Kaolack
+2019,2019-01,31/01/2019,Maïs,Kaolack
+2019,2019-01,31/01/2019,Riz Importé,Kaolack
+2019,2019-01,31/01/2019,Riz Importé Parfumé,Kaolack
+2019,2019-01,31/01/2019,Riz,Kaolack
+2019,2019-01,30/01/2019,Mil,Ourossogui
+2019,2019-01,30/01/2019,Mil,Thiès
+2019,2019-01,30/01/2019,Sorgho,Ourossogui
+2019,2019-01,30/01/2019,Sorgho,Thiès
+2019,2019-01,30/01/2019,Maïs,Ourossogui
+2019,2019-01,30/01/2019,Maïs Importé,Ourossogui
+2019,2019-01,30/01/2019,Maïs Importé,Thiès
+2019,2019-01,30/01/2019,Sorgho Importé,Ourossogui
+2019,2019-01,30/01/2019,Sorgho Importé,Thiès
+2019,2019-01,30/01/2019,Riz Importé,Ourossogui
+2019,2019-01,30/01/2019,Riz Importé,Thiès
+2019,2019-01,30/01/2019,Riz Importé Parfumé,Thiès
+2019,2019-01,30/01/2019,Riz,Ourossogui
+2019,2019-01,30/01/2019,Riz,Thiès
+2019,2019-01,29/01/2019,Mil,Thiodaye
+2019,2019-01,29/01/2019,Sorgho,Thiodaye
+2019,2019-01,29/01/2019,Maïs,Thiodaye
+2019,2019-01,29/01/2019,Maïs Importé,Thiodaye
+2019,2019-01,29/01/2019,Riz Importé,Thiodaye
+2019,2019-01,29/01/2019,Riz,Thiodaye
+2019,2019-01,28/01/2019,Sorgho,Kédougou
+2019,2019-01,28/01/2019,Mil,Kédougou
+2019,2019-01,28/01/2019,Maïs,Kédougou
+2019,2019-01,28/01/2019,Riz Importé,Kédougou
+2019,2019-01,28/01/2019,Riz Importé Parfumé,Kédougou
+2019,2019-01,26/01/2019,Mil,Touba Mouride
+2019,2019-01,26/01/2019,Mil,Touba Toul
+2019,2019-01,26/01/2019,Mil,Mako
+2019,2019-01,26/01/2019,Maïs,Touba Mouride
+2019,2019-01,26/01/2019,Maïs,Touba Toul
+2019,2019-01,26/01/2019,Maïs,Mako
+2019,2019-01,26/01/2019,Maïs Importé,Touba Toul
+2019,2019-01,26/01/2019,Riz Importé,Touba Mouride
+2019,2019-01,26/01/2019,Riz Importé,Touba Toul
+2019,2019-01,26/01/2019,Riz Importé,Mako
+2019,2019-01,26/01/2019,Riz Importé Parfumé,Touba Toul
+2019,2019-01,26/01/2019,Riz Importé Parfumé,Mako
+2019,2019-01,26/01/2019,Riz,Touba Toul
+2019,2019-01,25/01/2019,Mil,Mpal
+2019,2019-01,25/01/2019,Mil,Porokhane
+2019,2019-01,25/01/2019,Maïs,Mpal
+2019,2019-01,25/01/2019,Maïs,Porokhane
+2019,2019-01,25/01/2019,Maïs Importé,Mpal
+2019,2019-01,25/01/2019,Sorgho Importé,Mpal
+2019,2019-01,25/01/2019,Riz Importé,Mpal
+2019,2019-01,25/01/2019,Riz Importé,Porokhane
+2019,2019-01,25/01/2019,Riz,Mpal
+2019,2019-01,24/01/2019,Mil,Diourbel
+2019,2019-01,24/01/2019,Mil,Kaolack
+2019,2019-01,24/01/2019,Mil,Tambacounda
+2019,2019-01,24/01/2019,Mil,Saint-Maur
+2019,2019-01,24/01/2019,Mil,Louga
+2019,2019-01,24/01/2019,Sorgho,Diourbel
+2019,2019-01,24/01/2019,Sorgho,Kaolack
+2019,2019-01,24/01/2019,Sorgho,Saint-Maur
+2019,2019-01,24/01/2019,Maïs,Kaolack
+2019,2019-01,24/01/2019,Maïs,Tambacounda
+2019,2019-01,24/01/2019,Maïs,Saint-Maur
+2019,2019-01,24/01/2019,Maïs,Louga
+2019,2019-01,24/01/2019,Maïs Importé,Diourbel
+2019,2019-01,24/01/2019,Maïs Importé,Louga
+2019,2019-01,24/01/2019,Riz Importé,Diourbel
+2019,2019-01,24/01/2019,Riz Importé,Kaolack
+2019,2019-01,24/01/2019,Riz Importé,Tambacounda
+2019,2019-01,24/01/2019,Riz Importé,Saint-Maur
+2019,2019-01,24/01/2019,Riz Importé,Louga
+2019,2019-01,24/01/2019,Riz Importé Parfumé,Diourbel
+2019,2019-01,24/01/2019,Riz Importé Parfumé,Kaolack
+2019,2019-01,24/01/2019,Riz Importé Parfumé,Tambacounda
+2019,2019-01,24/01/2019,Riz Importé Parfumé,Louga
+2019,2019-01,24/01/2019,Riz,Diourbel
+2019,2019-01,24/01/2019,Riz,Kaolack
+2019,2019-01,24/01/2019,Riz,Louga
+2019,2019-01,23/01/2019,Mil,Ourossogui
+2019,2019-01,23/01/2019,Mil,Sédhiou
+2019,2019-01,23/01/2019,Mil,Thiès
+2019,2019-01,23/01/2019,Sorgho,Ourossogui
+2019,2019-01,23/01/2019,Sorgho,Thiès
+2019,2019-01,23/01/2019,Maïs,Sédhiou
+2019,2019-01,23/01/2019,Maïs Importé,Ourossogui
+2019,2019-01,23/01/2019,Maïs Importé,Thiès
+2019,2019-01,23/01/2019,Sorgho Importé,Ourossogui
+2019,2019-01,23/01/2019,Sorgho Importé,Thiès
+2019,2019-01,23/01/2019,Riz Importé,Ourossogui
+2019,2019-01,23/01/2019,Riz Importé,Sédhiou
+2019,2019-01,23/01/2019,Riz Importé,Thiès
+2019,2019-01,23/01/2019,Riz Importé Parfumé,Sédhiou
+2019,2019-01,23/01/2019,Riz Importé Parfumé,Thiès
+2019,2019-01,23/01/2019,Riz,Ourossogui
+2019,2019-01,23/01/2019,Riz,Thiès
+2019,2019-01,21/01/2019,Mil,Mereto
+2019,2019-01,21/01/2019,Mil,Kolda
+2019,2019-01,21/01/2019,Mil,Saint-Louis
+2019,2019-01,21/01/2019,Mil,Gouille Mbeuth
+2019,2019-01,21/01/2019,Sorgho,Kolda
+2019,2019-01,21/01/2019,Sorgho,Saint-Louis
+2019,2019-01,21/01/2019,Maïs,Mereto
+2019,2019-01,21/01/2019,Maïs,Kolda
+2019,2019-01,21/01/2019,Maïs,Saint-Louis
+2019,2019-01,21/01/2019,Maïs,Gouille Mbeuth
+2019,2019-01,21/01/2019,Maïs Importé,Saint-Louis
+2019,2019-01,21/01/2019,Maïs Importé,Gouille Mbeuth
+2019,2019-01,21/01/2019,Sorgho Importé,Saint-Louis
+2019,2019-01,21/01/2019,Riz Importé,Mereto
+2019,2019-01,21/01/2019,Riz Importé,Kolda
+2019,2019-01,21/01/2019,Riz Importé,Saint-Louis
+2019,2019-01,21/01/2019,Riz Importé,Gouille Mbeuth
+2019,2019-01,21/01/2019,Riz Importé Parfumé,Mereto
+2019,2019-01,21/01/2019,Riz Importé Parfumé,Kolda
+2019,2019-01,21/01/2019,Riz Importé Parfumé,Saint-Louis
+2019,2019-01,21/01/2019,Riz Importé Parfumé,Gouille Mbeuth
+2019,2019-01,21/01/2019,Riz,Kolda
+2019,2019-01,21/01/2019,Riz,Saint-Louis
+2019,2019-01,21/01/2019,Riz,Gouille Mbeuth
+2019,2019-01,20/01/2019,Mil,Fatick
+2019,2019-01,20/01/2019,Mil,Passy
+2019,2019-01,20/01/2019,Sorgho,Fatick
+2019,2019-01,20/01/2019,Sorgho,Passy
+2019,2019-01,20/01/2019,Maïs,Fatick
+2019,2019-01,20/01/2019,Maïs,Passy
+2019,2019-01,20/01/2019,Maïs Importé,Fatick
+2019,2019-01,20/01/2019,Maïs Importé,Passy
+2019,2019-01,20/01/2019,Riz Importé,Fatick
+2019,2019-01,20/01/2019,Riz Importé,Passy
+2019,2019-01,20/01/2019,Riz Importé Parfumé,Fatick
+2019,2019-01,20/01/2019,Riz Importé Parfumé,Passy
+2019,2019-01,19/01/2019,Mil,Touba Mouride
+2019,2019-01,19/01/2019,Mil,Touba Toul
+2019,2019-01,19/01/2019,Maïs,Touba Mouride
+2019,2019-01,19/01/2019,Maïs,Touba Toul
+2019,2019-01,19/01/2019,Maïs Importé,Touba Toul
+2019,2019-01,19/01/2019,Riz Importé,Touba Mouride
+2019,2019-01,19/01/2019,Riz Importé,Touba Toul
+2019,2019-01,19/01/2019,Riz Importé Parfumé,Touba Toul
+2019,2019-01,19/01/2019,Riz,Touba Toul
+2019,2019-01,18/01/2019,Mil,Touba
+2019,2019-01,18/01/2019,Mil,Porokhane
+2019,2019-01,18/01/2019,Mil,Mpal
+2019,2019-01,18/01/2019,Sorgho,Touba
+2019,2019-01,18/01/2019,Maïs,Touba
+2019,2019-01,18/01/2019,Maïs,Porokhane
+2019,2019-01,18/01/2019,Maïs,Mpal
+2019,2019-01,18/01/2019,Maïs Importé,Touba
+2019,2019-01,18/01/2019,Maïs Importé,Mpal
+2019,2019-01,18/01/2019,Sorgho Importé,Mpal
+2019,2019-01,18/01/2019,Riz Importé,Touba
+2019,2019-01,18/01/2019,Riz Importé,Porokhane
+2019,2019-01,18/01/2019,Riz Importé,Mpal
+2019,2019-01,18/01/2019,Riz Importé Parfumé,Touba
+2019,2019-01,18/01/2019,Riz,Touba
+2019,2019-01,18/01/2019,Riz,Mpal
+2019,2019-01,17/01/2019,Mil,Tilene
+2019,2019-01,17/01/2019,Mil,Thiaroye
+2019,2019-01,17/01/2019,Mil,Kaolack
+2019,2019-01,17/01/2019,Mil,Tambacounda
+2019,2019-01,17/01/2019,Sorgho,Tilene
+2019,2019-01,17/01/2019,Sorgho,Thiaroye
+2019,2019-01,17/01/2019,Sorgho,Kaolack
+2019,2019-01,17/01/2019,Sorgho,Tambacounda
+2019,2019-01,17/01/2019,Maïs,Tilene
+2019,2019-01,17/01/2019,Maïs,Thiaroye
+2019,2019-01,17/01/2019,Maïs,Kaolack
+2019,2019-01,17/01/2019,Maïs,Tambacounda
+2019,2019-01,17/01/2019,Maïs Importé,Thiaroye
+2019,2019-01,17/01/2019,Sorgho Importé,Thiaroye
+2019,2019-01,17/01/2019,Riz Importé,Tilene
+2019,2019-01,17/01/2019,Riz Importé,Thiaroye
+2019,2019-01,17/01/2019,Riz Importé,Kaolack
+2019,2019-01,17/01/2019,Riz Importé,Tambacounda
+2019,2019-01,17/01/2019,Riz Importé Parfumé,Tilene
+2019,2019-01,17/01/2019,Riz Importé Parfumé,Thiaroye
+2019,2019-01,17/01/2019,Riz Importé Parfumé,Kaolack
+2019,2019-01,17/01/2019,Riz Importé Parfumé,Tambacounda
+2019,2019-01,17/01/2019,Riz,Tilene
+2019,2019-01,17/01/2019,Riz,Thiaroye
+2019,2019-01,17/01/2019,Riz,Kaolack
+2019,2019-01,16/01/2019,Mil,Ourossogui
+2019,2019-01,16/01/2019,Mil,Thiès
+2019,2019-01,16/01/2019,Mil,Diaobe
+2019,2019-01,16/01/2019,Mil,Sédhiou
+2019,2019-01,16/01/2019,Sorgho,Thiès
+2019,2019-01,16/01/2019,Sorgho,Diaobe
+2019,2019-01,16/01/2019,Maïs,Diaobe
+2019,2019-01,16/01/2019,Maïs,Sédhiou
+2019,2019-01,16/01/2019,Maïs Importé,Ourossogui
+2019,2019-01,16/01/2019,Maïs Importé,Thiès
+2019,2019-01,16/01/2019,Sorgho Importé,Ourossogui
+2019,2019-01,16/01/2019,Sorgho Importé,Thiès
+2019,2019-01,16/01/2019,Riz Importé,Ourossogui
+2019,2019-01,16/01/2019,Riz Importé,Thiès
+2019,2019-01,16/01/2019,Riz Importé,Diaobe
+2019,2019-01,16/01/2019,Riz Importé,Sédhiou
+2019,2019-01,16/01/2019,Riz Importé Parfumé,Thiès
+2019,2019-01,16/01/2019,Riz Importé Parfumé,Diaobe
+2019,2019-01,16/01/2019,Riz Importé Parfumé,Sédhiou
+2019,2019-01,16/01/2019,Riz,Ourossogui
+2019,2019-01,16/01/2019,Riz,Thiès
+2019,2019-01,16/01/2019,Riz,Diaobe
+2019,2019-01,15/01/2019,Mil,Thiodaye
+2019,2019-01,15/01/2019,Sorgho,Thiodaye
+2019,2019-01,15/01/2019,Maïs,Thiodaye
+2019,2019-01,15/01/2019,Maïs Importé,Thiodaye
+2019,2019-01,15/01/2019,Riz Importé,Thiodaye
+2019,2019-01,15/01/2019,Riz,Thiodaye
+2019,2019-01,14/01/2019,Mil,Mereto
+2019,2019-01,14/01/2019,Mil,Kolda
+2019,2019-01,14/01/2019,Mil,Louga
+2019,2019-01,14/01/2019,Mil,Gouille Mbeuth
+2019,2019-01,14/01/2019,Mil,Saint-Louis
+2019,2019-01,14/01/2019,Sorgho,Kolda
+2019,2019-01,14/01/2019,Sorgho,Saint-Louis
+2019,2019-01,14/01/2019,Maïs,Mereto
+2019,2019-01,14/01/2019,Maïs,Kolda
+2019,2019-01,14/01/2019,Maïs,Louga
+2019,2019-01,14/01/2019,Maïs,Gouille Mbeuth
+2019,2019-01,14/01/2019,Maïs,Saint-Louis
+2019,2019-01,14/01/2019,Maïs Importé,Louga
+2019,2019-01,14/01/2019,Maïs Importé,Gouille Mbeuth
+2019,2019-01,14/01/2019,Maïs Importé,Saint-Louis
+2019,2019-01,14/01/2019,Sorgho Importé,Saint-Louis
+2019,2019-01,14/01/2019,Riz Importé,Mereto
+2019,2019-01,14/01/2019,Riz Importé,Kolda
+2019,2019-01,14/01/2019,Riz Importé,Louga
+2019,2019-01,14/01/2019,Riz Importé,Gouille Mbeuth
+2019,2019-01,14/01/2019,Riz Importé,Saint-Louis
+2019,2019-01,14/01/2019,Riz Importé Parfumé,Mereto
+2019,2019-01,14/01/2019,Riz Importé Parfumé,Kolda
+2019,2019-01,14/01/2019,Riz Importé Parfumé,Louga
+2019,2019-01,14/01/2019,Riz Importé Parfumé,Gouille Mbeuth
+2019,2019-01,14/01/2019,Riz Importé Parfumé,Saint-Louis
+2019,2019-01,14/01/2019,Riz,Kolda
+2019,2019-01,14/01/2019,Riz,Louga
+2019,2019-01,14/01/2019,Riz,Gouille Mbeuth
+2019,2019-01,14/01/2019,Riz,Saint-Louis
+2019,2019-01,12/01/2019,Mil,Touba Toul
+2019,2019-01,12/01/2019,Mil,Touba Mouride
+2019,2019-01,12/01/2019,Maïs,Touba Toul
+2019,2019-01,12/01/2019,Maïs,Touba Mouride
+2019,2019-01,12/01/2019,Maïs Importé,Touba Toul
+2019,2019-01,12/01/2019,Riz Importé,Touba Toul
+2019,2019-01,12/01/2019,Riz Importé,Touba Mouride
+2019,2019-01,12/01/2019,Riz Importé Parfumé,Touba Toul
+2019,2019-01,12/01/2019,Riz,Touba Toul
+2019,2019-01,11/01/2019,Mil,Mpal
+2019,2019-01,11/01/2019,Mil,Porokhane
+2019,2019-01,11/01/2019,Maïs,Mpal
+2019,2019-01,11/01/2019,Maïs,Porokhane
+2019,2019-01,11/01/2019,Maïs Importé,Mpal
+2019,2019-01,11/01/2019,Sorgho Importé,Mpal
+2019,2019-01,11/01/2019,Riz Importé,Mpal
+2019,2019-01,11/01/2019,Riz Importé,Porokhane
+2019,2019-01,11/01/2019,Riz,Mpal
+2019,2019-01,10/01/2019,Mil,Diourbel
+2019,2019-01,10/01/2019,Mil,Kaolack
+2019,2019-01,10/01/2019,Mil,Tambacounda
+2019,2019-01,10/01/2019,Sorgho,Diourbel
+2019,2019-01,10/01/2019,Sorgho,Kaolack
+2019,2019-01,10/01/2019,Sorgho,Tambacounda
+2019,2019-01,10/01/2019,Maïs,Kaolack
+2019,2019-01,10/01/2019,Maïs,Tambacounda
+2019,2019-01,10/01/2019,Maïs Importé,Diourbel
+2019,2019-01,10/01/2019,Riz Importé,Diourbel
+2019,2019-01,10/01/2019,Riz Importé,Kaolack
+2019,2019-01,10/01/2019,Riz Importé,Tambacounda
+2019,2019-01,10/01/2019,Riz Importé Parfumé,Diourbel
+2019,2019-01,10/01/2019,Riz Importé Parfumé,Kaolack
+2019,2019-01,10/01/2019,Riz Importé Parfumé,Tambacounda
+2019,2019-01,10/01/2019,Riz,Diourbel
+2019,2019-01,10/01/2019,Riz,Kaolack
+2019,2019-01,09/01/2019,Mil,Ourossogui
+2019,2019-01,09/01/2019,Mil,Touba
+2019,2019-01,09/01/2019,Mil,Sédhiou
+2019,2019-01,09/01/2019,Sorgho,Ourossogui
+2019,2019-01,09/01/2019,Sorgho,Touba
+2019,2019-01,09/01/2019,Maïs,Touba
+2019,2019-01,09/01/2019,Maïs,Sédhiou
+2019,2019-01,09/01/2019,Maïs Importé,Ourossogui
+2019,2019-01,09/01/2019,Maïs Importé,Touba
+2019,2019-01,09/01/2019,Sorgho Importé,Ourossogui
+2019,2019-01,09/01/2019,Riz Importé,Ourossogui
+2019,2019-01,09/01/2019,Riz Importé,Touba
+2019,2019-01,09/01/2019,Riz Importé,Sédhiou
+2019,2019-01,09/01/2019,Riz Importé Parfumé,Touba
+2019,2019-01,09/01/2019,Riz Importé Parfumé,Sédhiou
+2019,2019-01,09/01/2019,Riz,Ourossogui
+2019,2019-01,09/01/2019,Riz,Touba
+2019,2019-01,08/01/2019,Mil,Bignona
+2019,2019-01,08/01/2019,Sorgho,Bignona
+2019,2019-01,08/01/2019,Maïs,Bignona
+2019,2019-01,08/01/2019,Riz Importé,Bignona
+2019,2019-01,07/01/2019,Mil,Mereto
+2019,2019-01,07/01/2019,Mil,Kolda
+2019,2019-01,07/01/2019,Mil,Saint-Louis
+2019,2019-01,07/01/2019,Mil,Kaffrine
+2019,2019-01,07/01/2019,Sorgho,Mereto
+2019,2019-01,07/01/2019,Sorgho,Kolda
+2019,2019-01,07/01/2019,Sorgho,Kaffrine
+2019,2019-01,07/01/2019,Maïs,Mereto
+2019,2019-01,07/01/2019,Maïs,Kolda
+2019,2019-01,07/01/2019,Maïs,Saint-Louis
+2019,2019-01,07/01/2019,Maïs,Kaffrine
+2019,2019-01,07/01/2019,Maïs Importé,Saint-Louis
+2019,2019-01,07/01/2019,Sorgho Importé,Saint-Louis
+2019,2019-01,07/01/2019,Riz Importé,Mereto
+2019,2019-01,07/01/2019,Riz Importé,Kolda
+2019,2019-01,07/01/2019,Riz Importé,Saint-Louis
+2019,2019-01,07/01/2019,Riz Importé,Kaffrine
+2019,2019-01,07/01/2019,Riz Importé Parfumé,Mereto
+2019,2019-01,07/01/2019,Riz Importé Parfumé,Kolda
+2019,2019-01,07/01/2019,Riz Importé Parfumé,Saint-Louis
+2019,2019-01,07/01/2019,Riz Importé Parfumé,Kaffrine
+2019,2019-01,07/01/2019,Riz,Kolda
+2019,2019-01,07/01/2019,Riz,Saint-Louis
+2019,2019-01,06/01/2019,Mil,Fatick
+2019,2019-01,06/01/2019,Mil,Birkilane
+2019,2019-01,06/01/2019,Sorgho,Fatick
+2019,2019-01,06/01/2019,Sorgho,Birkilane
+2019,2019-01,06/01/2019,Maïs,Fatick
+2019,2019-01,06/01/2019,Maïs,Birkilane
+2019,2019-01,06/01/2019,Maïs Importé,Fatick
+2019,2019-01,06/01/2019,Riz Importé,Fatick
+2019,2019-01,06/01/2019,Riz Importé,Birkilane
+2019,2019-01,06/01/2019,Riz Importé Parfumé,Fatick
+2019,2019-01,06/01/2019,Riz Importé Parfumé,Birkilane
+2019,2019-01,05/01/2019,Mil,Touba Mouride
+2019,2019-01,05/01/2019,Mil,Passy
+2019,2019-01,05/01/2019,Sorgho,Passy
+2019,2019-01,05/01/2019,Maïs,Touba Mouride
+2019,2019-01,05/01/2019,Maïs,Passy
+2019,2019-01,05/01/2019,Maïs Importé,Passy
+2019,2019-01,05/01/2019,Riz Importé,Touba Mouride
+2019,2019-01,05/01/2019,Riz Importé,Passy
+2019,2019-01,05/01/2019,Riz Importé Parfumé,Passy
+2019,2019-01,04/01/2019,Mil,Tilene
+2019,2019-01,04/01/2019,Mil,Thiaroye
+2019,2019-01,04/01/2019,Mil,Mpal
+2019,2019-01,04/01/2019,Mil,Porokhane
+2019,2019-01,04/01/2019,Maïs,Tilene
+2019,2019-01,04/01/2019,Maïs,Thiaroye
+2019,2019-01,04/01/2019,Maïs,Mpal
+2019,2019-01,04/01/2019,Maïs,Porokhane
+2019,2019-01,04/01/2019,Maïs Importé,Tilene
+2019,2019-01,04/01/2019,Maïs Importé,Thiaroye
+2019,2019-01,04/01/2019,Maïs Importé,Mpal
+2019,2019-01,04/01/2019,Sorgho Importé,Tilene
+2019,2019-01,04/01/2019,Sorgho Importé,Thiaroye
+2019,2019-01,04/01/2019,Sorgho Importé,Mpal
+2019,2019-01,04/01/2019,Riz Importé,Tilene
+2019,2019-01,04/01/2019,Riz Importé,Thiaroye
+2019,2019-01,04/01/2019,Riz Importé,Mpal
+2019,2019-01,04/01/2019,Riz Importé,Porokhane
+2019,2019-01,04/01/2019,Riz Importé Parfumé,Tilene
+2019,2019-01,04/01/2019,Riz Importé Parfumé,Thiaroye
+2019,2019-01,04/01/2019,Riz,Tilene
+2019,2019-01,04/01/2019,Riz,Thiaroye
+2019,2019-01,04/01/2019,Riz,Mpal
+2019,2019-01,03/01/2019,Mil,Kaolack
+2019,2019-01,03/01/2019,Mil,Tambacounda
+2019,2019-01,03/01/2019,Mil,Sédhiou
+2019,2019-01,03/01/2019,Sorgho,Kaolack
+2019,2019-01,03/01/2019,Sorgho,Tambacounda
+2019,2019-01,03/01/2019,Maïs,Kaolack
+2019,2019-01,03/01/2019,Maïs,Tambacounda
+2019,2019-01,03/01/2019,Maïs,Sédhiou
+2019,2019-01,03/01/2019,Riz Importé,Kaolack
+2019,2019-01,03/01/2019,Riz Importé,Tambacounda
+2019,2019-01,03/01/2019,Riz Importé,Sédhiou
+2019,2019-01,03/01/2019,Riz Importé Parfumé,Kaolack
+2019,2019-01,03/01/2019,Riz Importé Parfumé,Tambacounda
+2019,2019-01,03/01/2019,Riz Importé Parfumé,Sédhiou
+2019,2019-01,03/01/2019,Riz,Kaolack
+2019,2019-01,02/01/2019,Mil,Ourossogui
+2019,2019-01,02/01/2019,Mil,Thiès
+2019,2019-01,02/01/2019,Sorgho,Thiès
+2019,2019-01,02/01/2019,Maïs Importé,Ourossogui
+2019,2019-01,02/01/2019,Maïs Importé,Thiès
+2019,2019-01,02/01/2019,Sorgho Importé,Ourossogui
+2019,2019-01,02/01/2019,Sorgho Importé,Thiès
+2019,2019-01,02/01/2019,Riz Importé,Ourossogui
+2019,2019-01,02/01/2019,Riz Importé,Thiès
+2019,2019-01,02/01/2019,Riz Importé Parfumé,Thiès
+2019,2019-01,02/01/2019,Riz,Ourossogui
+2019,2019-01,02/01/2019,Riz,Thiès
+2019,2019-01,01/01/2019,Mil,Thiodaye
+2019,2019-01,01/01/2019,Sorgho,Thiodaye
+2019,2019-01,01/01/2019,Maïs Importé,Thiodaye
+2019,2019-01,01/01/2019,Sorgho Importé,Thiodaye
+2019,2019-01,01/01/2019,Riz Importé,Thiodaye
+2019,2019-01,01/01/2019,Riz,Thiodaye
+2018,2018-12,31/12/2018,Mil,Mereto
+2018,2018-12,31/12/2018,Mil,Saint-Louis
+2018,2018-12,31/12/2018,Mil,Kaffrine
+2018,2018-12,31/12/2018,Sorgho,Mereto
+2018,2018-12,31/12/2018,Sorgho,Kaffrine
+2018,2018-12,31/12/2018,Maïs,Mereto
+2018,2018-12,31/12/2018,Maïs,Saint-Louis
+2018,2018-12,31/12/2018,Maïs,Kaffrine
+2018,2018-12,31/12/2018,Maïs Importé,Saint-Louis
+2018,2018-12,31/12/2018,Sorgho Importé,Saint-Louis
+2018,2018-12,31/12/2018,Riz Importé,Mereto
+2018,2018-12,31/12/2018,Riz Importé,Saint-Louis
+2018,2018-12,31/12/2018,Riz Importé,Kaffrine
+2018,2018-12,31/12/2018,Riz Importé Parfumé,Mereto
+2018,2018-12,31/12/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-12,31/12/2018,Riz Importé Parfumé,Kaffrine
+2018,2018-12,31/12/2018,Riz,Saint-Louis
+2018,2018-12,30/12/2018,Mil,Birkilane
+2018,2018-12,30/12/2018,Maïs,Birkilane
+2018,2018-12,30/12/2018,Riz Importé,Birkilane
+2018,2018-12,30/12/2018,Riz Importé Parfumé,Birkilane
+2018,2018-12,29/12/2018,Mil,Touba Toul
+2018,2018-12,29/12/2018,Mil,Touba Mouride
+2018,2018-12,29/12/2018,Maïs,Touba Toul
+2018,2018-12,29/12/2018,Maïs,Touba Mouride
+2018,2018-12,29/12/2018,Maïs Importé,Touba Toul
+2018,2018-12,29/12/2018,Riz Importé,Touba Toul
+2018,2018-12,29/12/2018,Riz Importé,Touba Mouride
+2018,2018-12,29/12/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-12,29/12/2018,Riz,Touba Toul
+2018,2018-12,28/12/2018,Mil,Porokhane
+2018,2018-12,28/12/2018,Mil,Mpal
+2018,2018-12,28/12/2018,Maïs,Porokhane
+2018,2018-12,28/12/2018,Maïs,Mpal
+2018,2018-12,28/12/2018,Maïs Importé,Mpal
+2018,2018-12,28/12/2018,Sorgho Importé,Mpal
+2018,2018-12,28/12/2018,Riz Importé,Porokhane
+2018,2018-12,28/12/2018,Riz Importé,Mpal
+2018,2018-12,28/12/2018,Riz,Mpal
+2018,2018-12,27/12/2018,Mil,Kaolack
+2018,2018-12,27/12/2018,Mil,Tambacounda
+2018,2018-12,27/12/2018,Mil,Louga
+2018,2018-12,27/12/2018,Sorgho,Kaolack
+2018,2018-12,27/12/2018,Sorgho,Tambacounda
+2018,2018-12,27/12/2018,Maïs,Kaolack
+2018,2018-12,27/12/2018,Maïs,Tambacounda
+2018,2018-12,27/12/2018,Maïs,Louga
+2018,2018-12,27/12/2018,Maïs Importé,Louga
+2018,2018-12,27/12/2018,Riz Importé,Kaolack
+2018,2018-12,27/12/2018,Riz Importé,Tambacounda
+2018,2018-12,27/12/2018,Riz Importé,Louga
+2018,2018-12,27/12/2018,Riz Importé Parfumé,Kaolack
+2018,2018-12,27/12/2018,Riz Importé Parfumé,Tambacounda
+2018,2018-12,27/12/2018,Riz Importé Parfumé,Louga
+2018,2018-12,27/12/2018,Riz,Kaolack
+2018,2018-12,27/12/2018,Riz,Louga
+2018,2018-12,26/12/2018,Mil,Ourossogui
+2018,2018-12,26/12/2018,Mil,Thiès
+2018,2018-12,26/12/2018,Mil,Sédhiou
+2018,2018-12,26/12/2018,Sorgho,Ourossogui
+2018,2018-12,26/12/2018,Sorgho,Thiès
+2018,2018-12,26/12/2018,Maïs,Sédhiou
+2018,2018-12,26/12/2018,Maïs Importé,Ourossogui
+2018,2018-12,26/12/2018,Maïs Importé,Thiès
+2018,2018-12,26/12/2018,Sorgho Importé,Ourossogui
+2018,2018-12,26/12/2018,Sorgho Importé,Thiès
+2018,2018-12,26/12/2018,Riz Importé,Ourossogui
+2018,2018-12,26/12/2018,Riz Importé,Thiès
+2018,2018-12,26/12/2018,Riz Importé,Sédhiou
+2018,2018-12,26/12/2018,Riz Importé Parfumé,Thiès
+2018,2018-12,26/12/2018,Riz Importé Parfumé,Sédhiou
+2018,2018-12,26/12/2018,Riz,Ourossogui
+2018,2018-12,26/12/2018,Riz,Thiès
+2018,2018-12,24/12/2018,Mil,Saint-Maur
+2018,2018-12,24/12/2018,Mil,Mereto
+2018,2018-12,24/12/2018,Mil,Kolda
+2018,2018-12,24/12/2018,Mil,Saint-Louis
+2018,2018-12,24/12/2018,Mil,Kaffrine
+2018,2018-12,24/12/2018,Mil,Gouille Mbeuth
+2018,2018-12,24/12/2018,Sorgho,Saint-Maur
+2018,2018-12,24/12/2018,Sorgho,Mereto
+2018,2018-12,24/12/2018,Sorgho,Kolda
+2018,2018-12,24/12/2018,Sorgho,Kaffrine
+2018,2018-12,24/12/2018,Maïs,Saint-Maur
+2018,2018-12,24/12/2018,Maïs,Mereto
+2018,2018-12,24/12/2018,Maïs,Kolda
+2018,2018-12,24/12/2018,Maïs,Saint-Louis
+2018,2018-12,24/12/2018,Maïs,Kaffrine
+2018,2018-12,24/12/2018,Maïs,Gouille Mbeuth
+2018,2018-12,24/12/2018,Maïs Importé,Saint-Louis
+2018,2018-12,24/12/2018,Maïs Importé,Gouille Mbeuth
+2018,2018-12,24/12/2018,Sorgho Importé,Saint-Louis
+2018,2018-12,24/12/2018,Riz Importé,Saint-Maur
+2018,2018-12,24/12/2018,Riz Importé,Mereto
+2018,2018-12,24/12/2018,Riz Importé,Kolda
+2018,2018-12,24/12/2018,Riz Importé,Saint-Louis
+2018,2018-12,24/12/2018,Riz Importé,Kaffrine
+2018,2018-12,24/12/2018,Riz Importé,Gouille Mbeuth
+2018,2018-12,24/12/2018,Riz Importé Parfumé,Saint-Maur
+2018,2018-12,24/12/2018,Riz Importé Parfumé,Mereto
+2018,2018-12,24/12/2018,Riz Importé Parfumé,Kolda
+2018,2018-12,24/12/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-12,24/12/2018,Riz Importé Parfumé,Kaffrine
+2018,2018-12,24/12/2018,Riz Importé Parfumé,Gouille Mbeuth
+2018,2018-12,24/12/2018,Riz,Kolda
+2018,2018-12,24/12/2018,Riz,Saint-Louis
+2018,2018-12,24/12/2018,Riz,Gouille Mbeuth
+2018,2018-12,23/12/2018,Mil,Fatick
+2018,2018-12,23/12/2018,Mil,Birkilane
+2018,2018-12,23/12/2018,Sorgho,Fatick
+2018,2018-12,23/12/2018,Sorgho,Birkilane
+2018,2018-12,23/12/2018,Maïs,Fatick
+2018,2018-12,23/12/2018,Maïs,Birkilane
+2018,2018-12,23/12/2018,Maïs Importé,Fatick
+2018,2018-12,23/12/2018,Riz Importé,Fatick
+2018,2018-12,23/12/2018,Riz Importé,Birkilane
+2018,2018-12,23/12/2018,Riz Importé Parfumé,Fatick
+2018,2018-12,23/12/2018,Riz Importé Parfumé,Birkilane
+2018,2018-12,22/12/2018,Mil,Touba Toul
+2018,2018-12,22/12/2018,Mil,Passy
+2018,2018-12,22/12/2018,Sorgho,Passy
+2018,2018-12,22/12/2018,Maïs,Touba Toul
+2018,2018-12,22/12/2018,Maïs,Passy
+2018,2018-12,22/12/2018,Maïs Importé,Touba Toul
+2018,2018-12,22/12/2018,Maïs Importé,Passy
+2018,2018-12,22/12/2018,Riz Importé,Touba Toul
+2018,2018-12,22/12/2018,Riz Importé,Passy
+2018,2018-12,22/12/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-12,22/12/2018,Riz Importé Parfumé,Passy
+2018,2018-12,22/12/2018,Riz,Touba Toul
+2018,2018-12,21/12/2018,Mil,Mpal
+2018,2018-12,21/12/2018,Mil,Porokhane
+2018,2018-12,21/12/2018,Maïs,Mpal
+2018,2018-12,21/12/2018,Maïs,Porokhane
+2018,2018-12,21/12/2018,Maïs Importé,Mpal
+2018,2018-12,21/12/2018,Sorgho Importé,Mpal
+2018,2018-12,21/12/2018,Riz Importé,Mpal
+2018,2018-12,21/12/2018,Riz Importé,Porokhane
+2018,2018-12,21/12/2018,Riz,Mpal
+2018,2018-12,20/12/2018,Mil,Kaolack
+2018,2018-12,20/12/2018,Mil,Tilene
+2018,2018-12,20/12/2018,Mil,Thiaroye
+2018,2018-12,20/12/2018,Mil,Tambacounda
+2018,2018-12,20/12/2018,Mil,Louga
+2018,2018-12,20/12/2018,Sorgho,Kaolack
+2018,2018-12,20/12/2018,Sorgho,Tambacounda
+2018,2018-12,20/12/2018,Maïs,Kaolack
+2018,2018-12,20/12/2018,Maïs,Tilene
+2018,2018-12,20/12/2018,Maïs,Thiaroye
+2018,2018-12,20/12/2018,Maïs,Tambacounda
+2018,2018-12,20/12/2018,Maïs,Louga
+2018,2018-12,20/12/2018,Maïs Importé,Tilene
+2018,2018-12,20/12/2018,Maïs Importé,Thiaroye
+2018,2018-12,20/12/2018,Maïs Importé,Louga
+2018,2018-12,20/12/2018,Sorgho Importé,Tilene
+2018,2018-12,20/12/2018,Sorgho Importé,Thiaroye
+2018,2018-12,20/12/2018,Riz Importé,Kaolack
+2018,2018-12,20/12/2018,Riz Importé,Tilene
+2018,2018-12,20/12/2018,Riz Importé,Thiaroye
+2018,2018-12,20/12/2018,Riz Importé,Tambacounda
+2018,2018-12,20/12/2018,Riz Importé,Louga
+2018,2018-12,20/12/2018,Riz Importé Parfumé,Kaolack
+2018,2018-12,20/12/2018,Riz Importé Parfumé,Tilene
+2018,2018-12,20/12/2018,Riz Importé Parfumé,Thiaroye
+2018,2018-12,20/12/2018,Riz Importé Parfumé,Tambacounda
+2018,2018-12,20/12/2018,Riz Importé Parfumé,Louga
+2018,2018-12,20/12/2018,Riz,Kaolack
+2018,2018-12,20/12/2018,Riz,Tilene
+2018,2018-12,20/12/2018,Riz,Thiaroye
+2018,2018-12,20/12/2018,Riz,Louga
+2018,2018-12,19/12/2018,Mil,Ourossogui
+2018,2018-12,19/12/2018,Mil,Thiès
+2018,2018-12,19/12/2018,Mil,Diaobe
+2018,2018-12,19/12/2018,Sorgho,Thiès
+2018,2018-12,19/12/2018,Sorgho,Diaobe
+2018,2018-12,19/12/2018,Maïs,Diaobe
+2018,2018-12,19/12/2018,Maïs Importé,Ourossogui
+2018,2018-12,19/12/2018,Maïs Importé,Thiès
+2018,2018-12,19/12/2018,Sorgho Importé,Ourossogui
+2018,2018-12,19/12/2018,Sorgho Importé,Thiès
+2018,2018-12,19/12/2018,Riz Importé,Ourossogui
+2018,2018-12,19/12/2018,Riz Importé,Thiès
+2018,2018-12,19/12/2018,Riz Importé,Diaobe
+2018,2018-12,19/12/2018,Riz Importé Parfumé,Thiès
+2018,2018-12,19/12/2018,Riz Importé Parfumé,Diaobe
+2018,2018-12,19/12/2018,Riz,Ourossogui
+2018,2018-12,19/12/2018,Riz,Thiès
+2018,2018-12,19/12/2018,Riz,Diaobe
+2018,2018-12,18/12/2018,Mil,Thiodaye
+2018,2018-12,18/12/2018,Sorgho,Thiodaye
+2018,2018-12,18/12/2018,Maïs Importé,Thiodaye
+2018,2018-12,18/12/2018,Riz Importé,Thiodaye
+2018,2018-12,18/12/2018,Riz,Thiodaye
+2018,2018-12,17/12/2018,Mil,Mereto
+2018,2018-12,17/12/2018,Mil,Saint-Louis
+2018,2018-12,17/12/2018,Mil,Kolda
+2018,2018-12,17/12/2018,Mil,Gouille Mbeuth
+2018,2018-12,17/12/2018,Sorgho,Mereto
+2018,2018-12,17/12/2018,Sorgho,Kolda
+2018,2018-12,17/12/2018,Maïs,Mereto
+2018,2018-12,17/12/2018,Maïs,Saint-Louis
+2018,2018-12,17/12/2018,Maïs,Kolda
+2018,2018-12,17/12/2018,Maïs,Gouille Mbeuth
+2018,2018-12,17/12/2018,Maïs Importé,Saint-Louis
+2018,2018-12,17/12/2018,Maïs Importé,Gouille Mbeuth
+2018,2018-12,17/12/2018,Sorgho Importé,Saint-Louis
+2018,2018-12,17/12/2018,Riz Importé,Mereto
+2018,2018-12,17/12/2018,Riz Importé,Saint-Louis
+2018,2018-12,17/12/2018,Riz Importé,Kolda
+2018,2018-12,17/12/2018,Riz Importé,Gouille Mbeuth
+2018,2018-12,17/12/2018,Riz Importé Parfumé,Mereto
+2018,2018-12,17/12/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-12,17/12/2018,Riz Importé Parfumé,Kolda
+2018,2018-12,17/12/2018,Riz Importé Parfumé,Gouille Mbeuth
+2018,2018-12,17/12/2018,Riz,Saint-Louis
+2018,2018-12,17/12/2018,Riz,Kolda
+2018,2018-12,17/12/2018,Riz,Gouille Mbeuth
+2018,2018-12,15/12/2018,Mil,Touba Mouride
+2018,2018-12,15/12/2018,Mil,Touba Toul
+2018,2018-12,15/12/2018,Sorgho,Touba Mouride
+2018,2018-12,15/12/2018,Maïs,Touba Mouride
+2018,2018-12,15/12/2018,Maïs,Touba Toul
+2018,2018-12,15/12/2018,Maïs Importé,Touba Toul
+2018,2018-12,15/12/2018,Riz Importé,Touba Mouride
+2018,2018-12,15/12/2018,Riz Importé,Touba Toul
+2018,2018-12,15/12/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-12,15/12/2018,Riz,Touba Toul
+2018,2018-12,14/12/2018,Mil,Mpal
+2018,2018-12,14/12/2018,Mil,Touba
+2018,2018-12,14/12/2018,Mil,Porokhane
+2018,2018-12,14/12/2018,Sorgho,Touba
+2018,2018-12,14/12/2018,Maïs,Mpal
+2018,2018-12,14/12/2018,Maïs,Touba
+2018,2018-12,14/12/2018,Maïs,Porokhane
+2018,2018-12,14/12/2018,Maïs Importé,Mpal
+2018,2018-12,14/12/2018,Sorgho Importé,Mpal
+2018,2018-12,14/12/2018,Riz Importé,Mpal
+2018,2018-12,14/12/2018,Riz Importé,Touba
+2018,2018-12,14/12/2018,Riz Importé,Porokhane
+2018,2018-12,14/12/2018,Riz Importé Parfumé,Touba
+2018,2018-12,14/12/2018,Riz,Mpal
+2018,2018-12,14/12/2018,Riz,Touba
+2018,2018-12,13/12/2018,Mil,Diourbel
+2018,2018-12,13/12/2018,Mil,Kaolack
+2018,2018-12,13/12/2018,Mil,Louga
+2018,2018-12,13/12/2018,Sorgho,Diourbel
+2018,2018-12,13/12/2018,Sorgho,Kaolack
+2018,2018-12,13/12/2018,Maïs,Kaolack
+2018,2018-12,13/12/2018,Maïs,Louga
+2018,2018-12,13/12/2018,Maïs Importé,Diourbel
+2018,2018-12,13/12/2018,Maïs Importé,Louga
+2018,2018-12,13/12/2018,Riz Importé,Diourbel
+2018,2018-12,13/12/2018,Riz Importé,Kaolack
+2018,2018-12,13/12/2018,Riz Importé,Louga
+2018,2018-12,13/12/2018,Riz Importé Parfumé,Diourbel
+2018,2018-12,13/12/2018,Riz Importé Parfumé,Kaolack
+2018,2018-12,13/12/2018,Riz Importé Parfumé,Louga
+2018,2018-12,13/12/2018,Riz,Diourbel
+2018,2018-12,13/12/2018,Riz,Kaolack
+2018,2018-12,13/12/2018,Riz,Louga
+2018,2018-12,12/12/2018,Mil,Ourossogui
+2018,2018-12,12/12/2018,Mil,Sédhiou
+2018,2018-12,12/12/2018,Maïs,Sédhiou
+2018,2018-12,12/12/2018,Maïs Importé,Ourossogui
+2018,2018-12,12/12/2018,Sorgho Importé,Ourossogui
+2018,2018-12,12/12/2018,Riz Importé,Ourossogui
+2018,2018-12,12/12/2018,Riz Importé,Sédhiou
+2018,2018-12,12/12/2018,Riz,Ourossogui
+2018,2018-12,10/12/2018,Mil,Saint-Louis
+2018,2018-12,10/12/2018,Mil,Kolda
+2018,2018-12,10/12/2018,Mil,Kédougou
+2018,2018-12,10/12/2018,Mil,Gouille Mbeuth
+2018,2018-12,10/12/2018,Sorgho,Kolda
+2018,2018-12,10/12/2018,Sorgho,Kédougou
+2018,2018-12,10/12/2018,Maïs,Saint-Louis
+2018,2018-12,10/12/2018,Maïs,Kolda
+2018,2018-12,10/12/2018,Maïs,Kédougou
+2018,2018-12,10/12/2018,Maïs,Gouille Mbeuth
+2018,2018-12,10/12/2018,Maïs Importé,Saint-Louis
+2018,2018-12,10/12/2018,Maïs Importé,Gouille Mbeuth
+2018,2018-12,10/12/2018,Sorgho Importé,Saint-Louis
+2018,2018-12,10/12/2018,Riz Importé,Saint-Louis
+2018,2018-12,10/12/2018,Riz Importé,Kolda
+2018,2018-12,10/12/2018,Riz Importé,Kédougou
+2018,2018-12,10/12/2018,Riz Importé,Gouille Mbeuth
+2018,2018-12,10/12/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-12,10/12/2018,Riz Importé Parfumé,Kolda
+2018,2018-12,10/12/2018,Riz Importé Parfumé,Kédougou
+2018,2018-12,10/12/2018,Riz Importé Parfumé,Gouille Mbeuth
+2018,2018-12,10/12/2018,Riz,Saint-Louis
+2018,2018-12,10/12/2018,Riz,Kolda
+2018,2018-12,10/12/2018,Riz,Gouille Mbeuth
+2018,2018-12,08/12/2018,Mil,Touba Mouride
+2018,2018-12,08/12/2018,Sorgho,Touba Mouride
+2018,2018-12,08/12/2018,Maïs,Touba Mouride
+2018,2018-12,08/12/2018,Maïs,Mako
+2018,2018-12,08/12/2018,Riz Importé,Touba Mouride
+2018,2018-12,08/12/2018,Riz Importé,Mako
+2018,2018-12,08/12/2018,Riz Importé Parfumé,Mako
+2018,2018-12,07/12/2018,Mil,Tambacounda
+2018,2018-12,07/12/2018,Mil,Mpal
+2018,2018-12,07/12/2018,Mil,Porokhane
+2018,2018-12,07/12/2018,Maïs,Tambacounda
+2018,2018-12,07/12/2018,Maïs,Mpal
+2018,2018-12,07/12/2018,Maïs,Porokhane
+2018,2018-12,07/12/2018,Maïs Importé,Mpal
+2018,2018-12,07/12/2018,Sorgho Importé,Mpal
+2018,2018-12,07/12/2018,Riz Importé,Tambacounda
+2018,2018-12,07/12/2018,Riz Importé,Mpal
+2018,2018-12,07/12/2018,Riz Importé,Porokhane
+2018,2018-12,07/12/2018,Riz Importé Parfumé,Tambacounda
+2018,2018-12,07/12/2018,Riz,Mpal
+2018,2018-12,06/12/2018,Mil,Louga
+2018,2018-12,06/12/2018,Mil,Kaolack
+2018,2018-12,06/12/2018,Sorgho,Kaolack
+2018,2018-12,06/12/2018,Maïs,Louga
+2018,2018-12,06/12/2018,Maïs,Kaolack
+2018,2018-12,06/12/2018,Maïs Importé,Louga
+2018,2018-12,06/12/2018,Riz Importé,Louga
+2018,2018-12,06/12/2018,Riz Importé,Kaolack
+2018,2018-12,06/12/2018,Riz Importé Parfumé,Louga
+2018,2018-12,06/12/2018,Riz Importé Parfumé,Kaolack
+2018,2018-12,06/12/2018,Riz,Louga
+2018,2018-12,06/12/2018,Riz,Kaolack
+2018,2018-12,05/12/2018,Mil,Ourossogui
+2018,2018-12,05/12/2018,Mil,Sédhiou
+2018,2018-12,05/12/2018,Mil,Thiès
+2018,2018-12,05/12/2018,Sorgho,Thiès
+2018,2018-12,05/12/2018,Maïs,Sédhiou
+2018,2018-12,05/12/2018,Maïs Importé,Ourossogui
+2018,2018-12,05/12/2018,Maïs Importé,Thiès
+2018,2018-12,05/12/2018,Sorgho Importé,Ourossogui
+2018,2018-12,05/12/2018,Sorgho Importé,Thiès
+2018,2018-12,05/12/2018,Riz Importé,Ourossogui
+2018,2018-12,05/12/2018,Riz Importé,Sédhiou
+2018,2018-12,05/12/2018,Riz Importé,Thiès
+2018,2018-12,05/12/2018,Riz Importé Parfumé,Thiès
+2018,2018-12,05/12/2018,Riz,Ourossogui
+2018,2018-12,05/12/2018,Riz,Thiès
+2018,2018-12,04/12/2018,Mil,Thiodaye
+2018,2018-12,04/12/2018,Sorgho,Thiodaye
+2018,2018-12,04/12/2018,Maïs Importé,Thiodaye
+2018,2018-12,04/12/2018,Sorgho Importé,Thiodaye
+2018,2018-12,04/12/2018,Riz Importé,Thiodaye
+2018,2018-12,04/12/2018,Riz,Thiodaye
+2018,2018-12,03/12/2018,Mil,Gouille Mbeuth
+2018,2018-12,03/12/2018,Mil,Mereto
+2018,2018-12,03/12/2018,Mil,Saint-Louis
+2018,2018-12,03/12/2018,Sorgho,Mereto
+2018,2018-12,03/12/2018,Maïs,Gouille Mbeuth
+2018,2018-12,03/12/2018,Maïs,Mereto
+2018,2018-12,03/12/2018,Maïs,Saint-Louis
+2018,2018-12,03/12/2018,Maïs Importé,Gouille Mbeuth
+2018,2018-12,03/12/2018,Maïs Importé,Saint-Louis
+2018,2018-12,03/12/2018,Sorgho Importé,Saint-Louis
+2018,2018-12,03/12/2018,Riz Importé,Gouille Mbeuth
+2018,2018-12,03/12/2018,Riz Importé,Mereto
+2018,2018-12,03/12/2018,Riz Importé,Saint-Louis
+2018,2018-12,03/12/2018,Riz Importé Parfumé,Gouille Mbeuth
+2018,2018-12,03/12/2018,Riz Importé Parfumé,Mereto
+2018,2018-12,03/12/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-12,03/12/2018,Riz,Gouille Mbeuth
+2018,2018-12,03/12/2018,Riz,Saint-Louis
+2018,2018-12,01/12/2018,Mil,Touba Mouride
+2018,2018-12,01/12/2018,Mil,Touba Toul
+2018,2018-12,01/12/2018,Sorgho,Touba Mouride
+2018,2018-12,01/12/2018,Maïs,Touba Mouride
+2018,2018-12,01/12/2018,Maïs,Touba Toul
+2018,2018-12,01/12/2018,Maïs Importé,Touba Toul
+2018,2018-12,01/12/2018,Riz Importé,Touba Mouride
+2018,2018-12,01/12/2018,Riz Importé,Touba Toul
+2018,2018-12,01/12/2018,Riz Importé Parfumé,Touba Mouride
+2018,2018-12,01/12/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-12,01/12/2018,Riz,Touba Toul
+2018,2018-11,30/11/2018,Mil,Mpal
+2018,2018-11,30/11/2018,Mil,Porokhane
+2018,2018-11,30/11/2018,Maïs,Mpal
+2018,2018-11,30/11/2018,Maïs,Porokhane
+2018,2018-11,30/11/2018,Maïs Importé,Mpal
+2018,2018-11,30/11/2018,Sorgho Importé,Mpal
+2018,2018-11,30/11/2018,Riz Importé,Mpal
+2018,2018-11,30/11/2018,Riz Importé,Porokhane
+2018,2018-11,30/11/2018,Riz,Mpal
+2018,2018-11,29/11/2018,Mil,Louga
+2018,2018-11,29/11/2018,Mil,Kaolack
+2018,2018-11,29/11/2018,Mil,Saint-Maur
+2018,2018-11,29/11/2018,Mil,Tilene
+2018,2018-11,29/11/2018,Mil,Thiaroye
+2018,2018-11,29/11/2018,Mil,Tambacounda
+2018,2018-11,29/11/2018,Sorgho,Kaolack
+2018,2018-11,29/11/2018,Sorgho,Saint-Maur
+2018,2018-11,29/11/2018,Sorgho,Tambacounda
+2018,2018-11,29/11/2018,Maïs,Louga
+2018,2018-11,29/11/2018,Maïs,Kaolack
+2018,2018-11,29/11/2018,Maïs,Saint-Maur
+2018,2018-11,29/11/2018,Maïs,Tilene
+2018,2018-11,29/11/2018,Maïs,Thiaroye
+2018,2018-11,29/11/2018,Maïs,Tambacounda
+2018,2018-11,29/11/2018,Maïs Importé,Louga
+2018,2018-11,29/11/2018,Maïs Importé,Tilene
+2018,2018-11,29/11/2018,Maïs Importé,Thiaroye
+2018,2018-11,29/11/2018,Sorgho Importé,Tilene
+2018,2018-11,29/11/2018,Sorgho Importé,Thiaroye
+2018,2018-11,29/11/2018,Riz Importé,Louga
+2018,2018-11,29/11/2018,Riz Importé,Kaolack
+2018,2018-11,29/11/2018,Riz Importé,Saint-Maur
+2018,2018-11,29/11/2018,Riz Importé,Tilene
+2018,2018-11,29/11/2018,Riz Importé,Thiaroye
+2018,2018-11,29/11/2018,Riz Importé,Tambacounda
+2018,2018-11,29/11/2018,Riz Importé Parfumé,Louga
+2018,2018-11,29/11/2018,Riz Importé Parfumé,Tilene
+2018,2018-11,29/11/2018,Riz Importé Parfumé,Thiaroye
+2018,2018-11,29/11/2018,Riz Importé Parfumé,Tambacounda
+2018,2018-11,29/11/2018,Riz,Louga
+2018,2018-11,29/11/2018,Riz,Kaolack
+2018,2018-11,29/11/2018,Riz,Tilene
+2018,2018-11,29/11/2018,Riz,Thiaroye
+2018,2018-11,28/11/2018,Mil,Ourossogui
+2018,2018-11,28/11/2018,Mil,Sédhiou
+2018,2018-11,28/11/2018,Mil,Thiès
+2018,2018-11,28/11/2018,Sorgho,Thiès
+2018,2018-11,28/11/2018,Maïs,Sédhiou
+2018,2018-11,28/11/2018,Maïs Importé,Ourossogui
+2018,2018-11,28/11/2018,Maïs Importé,Thiès
+2018,2018-11,28/11/2018,Sorgho Importé,Ourossogui
+2018,2018-11,28/11/2018,Sorgho Importé,Thiès
+2018,2018-11,28/11/2018,Riz Importé,Ourossogui
+2018,2018-11,28/11/2018,Riz Importé,Sédhiou
+2018,2018-11,28/11/2018,Riz Importé,Thiès
+2018,2018-11,28/11/2018,Riz Importé Parfumé,Thiès
+2018,2018-11,28/11/2018,Riz,Ourossogui
+2018,2018-11,28/11/2018,Riz,Thiès
+2018,2018-11,27/11/2018,Maïs,Mako
+2018,2018-11,27/11/2018,Riz Importé,Mako
+2018,2018-11,27/11/2018,Riz Importé Parfumé,Mako
+2018,2018-11,26/11/2018,Mil,Saint-Louis
+2018,2018-11,26/11/2018,Mil,Gouille Mbeuth
+2018,2018-11,26/11/2018,Mil,Kédougou
+2018,2018-11,26/11/2018,Mil,Mereto
+2018,2018-11,26/11/2018,Mil,Kaffrine
+2018,2018-11,26/11/2018,Sorgho,Kédougou
+2018,2018-11,26/11/2018,Sorgho,Mereto
+2018,2018-11,26/11/2018,Maïs,Saint-Louis
+2018,2018-11,26/11/2018,Maïs,Gouille Mbeuth
+2018,2018-11,26/11/2018,Maïs,Kédougou
+2018,2018-11,26/11/2018,Maïs,Mereto
+2018,2018-11,26/11/2018,Maïs,Kaffrine
+2018,2018-11,26/11/2018,Maïs Importé,Saint-Louis
+2018,2018-11,26/11/2018,Sorgho Importé,Saint-Louis
+2018,2018-11,26/11/2018,Riz Importé,Saint-Louis
+2018,2018-11,26/11/2018,Riz Importé,Gouille Mbeuth
+2018,2018-11,26/11/2018,Riz Importé,Kédougou
+2018,2018-11,26/11/2018,Riz Importé,Mereto
+2018,2018-11,26/11/2018,Riz Importé,Kaffrine
+2018,2018-11,26/11/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-11,26/11/2018,Riz Importé Parfumé,Gouille Mbeuth
+2018,2018-11,26/11/2018,Riz Importé Parfumé,Kédougou
+2018,2018-11,26/11/2018,Riz Importé Parfumé,Mereto
+2018,2018-11,26/11/2018,Riz Importé Parfumé,Kaffrine
+2018,2018-11,26/11/2018,Riz,Saint-Louis
+2018,2018-11,26/11/2018,Riz,Gouille Mbeuth
+2018,2018-11,25/11/2018,Mil,Fatick
+2018,2018-11,25/11/2018,Sorgho,Fatick
+2018,2018-11,25/11/2018,Maïs,Fatick
+2018,2018-11,25/11/2018,Maïs Importé,Fatick
+2018,2018-11,25/11/2018,Riz Importé,Fatick
+2018,2018-11,25/11/2018,Riz Importé Parfumé,Fatick
+2018,2018-11,24/11/2018,Mil,Touba Mouride
+2018,2018-11,24/11/2018,Mil,Touba Toul
+2018,2018-11,24/11/2018,Mil,Passy
+2018,2018-11,24/11/2018,Sorgho,Touba Mouride
+2018,2018-11,24/11/2018,Maïs,Touba Mouride
+2018,2018-11,24/11/2018,Maïs,Touba Toul
+2018,2018-11,24/11/2018,Maïs,Passy
+2018,2018-11,24/11/2018,Maïs Importé,Touba Toul
+2018,2018-11,24/11/2018,Maïs Importé,Passy
+2018,2018-11,24/11/2018,Riz Importé,Touba Mouride
+2018,2018-11,24/11/2018,Riz Importé,Touba Toul
+2018,2018-11,24/11/2018,Riz Importé,Passy
+2018,2018-11,24/11/2018,Riz Importé Parfumé,Touba Mouride
+2018,2018-11,24/11/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-11,24/11/2018,Riz Importé Parfumé,Passy
+2018,2018-11,24/11/2018,Riz,Touba Toul
+2018,2018-11,23/11/2018,Mil,Mpal
+2018,2018-11,23/11/2018,Mil,Porokhane
+2018,2018-11,23/11/2018,Mil,Birkilane
+2018,2018-11,23/11/2018,Sorgho,Birkilane
+2018,2018-11,23/11/2018,Maïs,Mpal
+2018,2018-11,23/11/2018,Maïs,Porokhane
+2018,2018-11,23/11/2018,Maïs,Birkilane
+2018,2018-11,23/11/2018,Maïs Importé,Mpal
+2018,2018-11,23/11/2018,Sorgho Importé,Mpal
+2018,2018-11,23/11/2018,Riz Importé,Mpal
+2018,2018-11,23/11/2018,Riz Importé,Porokhane
+2018,2018-11,23/11/2018,Riz Importé,Birkilane
+2018,2018-11,23/11/2018,Riz Importé Parfumé,Birkilane
+2018,2018-11,23/11/2018,Riz,Mpal
+2018,2018-11,22/11/2018,Mil,Kaolack
+2018,2018-11,22/11/2018,Mil,Tambacounda
+2018,2018-11,22/11/2018,Sorgho,Kaolack
+2018,2018-11,22/11/2018,Sorgho,Tambacounda
+2018,2018-11,22/11/2018,Maïs,Kaolack
+2018,2018-11,22/11/2018,Maïs,Tambacounda
+2018,2018-11,22/11/2018,Riz Importé,Kaolack
+2018,2018-11,22/11/2018,Riz Importé,Tambacounda
+2018,2018-11,22/11/2018,Riz Importé Parfumé,Kaolack
+2018,2018-11,22/11/2018,Riz Importé Parfumé,Tambacounda
+2018,2018-11,22/11/2018,Riz,Kaolack
+2018,2018-11,21/11/2018,Mil,Diaobe
+2018,2018-11,21/11/2018,Mil,Sédhiou
+2018,2018-11,21/11/2018,Mil,Thiès
+2018,2018-11,21/11/2018,Sorgho,Diaobe
+2018,2018-11,21/11/2018,Sorgho,Thiès
+2018,2018-11,21/11/2018,Maïs,Diaobe
+2018,2018-11,21/11/2018,Maïs,Sédhiou
+2018,2018-11,21/11/2018,Maïs Importé,Diaobe
+2018,2018-11,21/11/2018,Maïs Importé,Thiès
+2018,2018-11,21/11/2018,Sorgho Importé,Thiès
+2018,2018-11,21/11/2018,Riz Importé,Diaobe
+2018,2018-11,21/11/2018,Riz Importé,Sédhiou
+2018,2018-11,21/11/2018,Riz Importé,Thiès
+2018,2018-11,21/11/2018,Riz Importé Parfumé,Thiès
+2018,2018-11,21/11/2018,Riz,Diaobe
+2018,2018-11,21/11/2018,Riz,Thiès
+2018,2018-11,19/11/2018,Mil,Saint-Louis
+2018,2018-11,19/11/2018,Mil,Mereto
+2018,2018-11,19/11/2018,Mil,Kolda
+2018,2018-11,19/11/2018,Mil,Kaffrine
+2018,2018-11,19/11/2018,Sorgho,Mereto
+2018,2018-11,19/11/2018,Sorgho,Kolda
+2018,2018-11,19/11/2018,Maïs,Saint-Louis
+2018,2018-11,19/11/2018,Maïs,Mereto
+2018,2018-11,19/11/2018,Maïs,Kolda
+2018,2018-11,19/11/2018,Maïs,Kaffrine
+2018,2018-11,19/11/2018,Maïs Importé,Saint-Louis
+2018,2018-11,19/11/2018,Sorgho Importé,Saint-Louis
+2018,2018-11,19/11/2018,Riz Importé,Saint-Louis
+2018,2018-11,19/11/2018,Riz Importé,Mereto
+2018,2018-11,19/11/2018,Riz Importé,Kolda
+2018,2018-11,19/11/2018,Riz Importé,Kaffrine
+2018,2018-11,19/11/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-11,19/11/2018,Riz Importé Parfumé,Mereto
+2018,2018-11,19/11/2018,Riz Importé Parfumé,Kolda
+2018,2018-11,19/11/2018,Riz Importé Parfumé,Kaffrine
+2018,2018-11,19/11/2018,Riz,Saint-Louis
+2018,2018-11,19/11/2018,Riz,Kolda
+2018,2018-11,17/11/2018,Mil,Touba Toul
+2018,2018-11,17/11/2018,Maïs,Touba Toul
+2018,2018-11,17/11/2018,Maïs Importé,Touba Toul
+2018,2018-11,17/11/2018,Riz Importé,Touba Toul
+2018,2018-11,17/11/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-11,17/11/2018,Riz,Touba Toul
+2018,2018-11,16/11/2018,Mil,Thiaroye
+2018,2018-11,16/11/2018,Mil,Porokhane
+2018,2018-11,16/11/2018,Mil,Mpal
+2018,2018-11,16/11/2018,Sorgho,Thiaroye
+2018,2018-11,16/11/2018,Maïs,Thiaroye
+2018,2018-11,16/11/2018,Maïs,Porokhane
+2018,2018-11,16/11/2018,Maïs,Mpal
+2018,2018-11,16/11/2018,Maïs Importé,Mpal
+2018,2018-11,16/11/2018,Sorgho Importé,Mpal
+2018,2018-11,16/11/2018,Riz Importé,Thiaroye
+2018,2018-11,16/11/2018,Riz Importé,Porokhane
+2018,2018-11,16/11/2018,Riz Importé,Mpal
+2018,2018-11,16/11/2018,Riz Importé Parfumé,Thiaroye
+2018,2018-11,16/11/2018,Riz,Mpal
+2018,2018-11,15/11/2018,Mil,Louga
+2018,2018-11,15/11/2018,Mil,Tilene
+2018,2018-11,15/11/2018,Mil,Kaolack
+2018,2018-11,15/11/2018,Mil,Tambacounda
+2018,2018-11,15/11/2018,Mil,Saint-Maur
+2018,2018-11,15/11/2018,Sorgho,Tilene
+2018,2018-11,15/11/2018,Sorgho,Kaolack
+2018,2018-11,15/11/2018,Sorgho,Tambacounda
+2018,2018-11,15/11/2018,Sorgho,Saint-Maur
+2018,2018-11,15/11/2018,Maïs,Louga
+2018,2018-11,15/11/2018,Maïs,Tilene
+2018,2018-11,15/11/2018,Maïs,Kaolack
+2018,2018-11,15/11/2018,Maïs,Tambacounda
+2018,2018-11,15/11/2018,Maïs,Saint-Maur
+2018,2018-11,15/11/2018,Maïs Importé,Louga
+2018,2018-11,15/11/2018,Riz Importé,Louga
+2018,2018-11,15/11/2018,Riz Importé,Tilene
+2018,2018-11,15/11/2018,Riz Importé,Kaolack
+2018,2018-11,15/11/2018,Riz Importé,Tambacounda
+2018,2018-11,15/11/2018,Riz Importé,Saint-Maur
+2018,2018-11,15/11/2018,Riz Importé Parfumé,Louga
+2018,2018-11,15/11/2018,Riz Importé Parfumé,Tilene
+2018,2018-11,15/11/2018,Riz Importé Parfumé,Kaolack
+2018,2018-11,15/11/2018,Riz Importé Parfumé,Tambacounda
+2018,2018-11,15/11/2018,Riz,Louga
+2018,2018-11,15/11/2018,Riz,Kaolack
+2018,2018-11,14/11/2018,Mil,Ourossogui
+2018,2018-11,14/11/2018,Mil,Thiès
+2018,2018-11,14/11/2018,Sorgho,Thiès
+2018,2018-11,14/11/2018,Maïs Importé,Ourossogui
+2018,2018-11,14/11/2018,Maïs Importé,Thiès
+2018,2018-11,14/11/2018,Sorgho Importé,Ourossogui
+2018,2018-11,14/11/2018,Sorgho Importé,Thiès
+2018,2018-11,14/11/2018,Riz Importé,Ourossogui
+2018,2018-11,14/11/2018,Riz Importé,Thiès
+2018,2018-11,14/11/2018,Riz Importé Parfumé,Thiès
+2018,2018-11,14/11/2018,Riz,Ourossogui
+2018,2018-11,14/11/2018,Riz,Thiès
+2018,2018-11,12/11/2018,Mil,Gouille Mbeuth
+2018,2018-11,12/11/2018,Mil,Saint-Louis
+2018,2018-11,12/11/2018,Mil,Mereto
+2018,2018-11,12/11/2018,Mil,Kaffrine
+2018,2018-11,12/11/2018,Maïs,Gouille Mbeuth
+2018,2018-11,12/11/2018,Maïs,Saint-Louis
+2018,2018-11,12/11/2018,Maïs,Mereto
+2018,2018-11,12/11/2018,Maïs,Kaffrine
+2018,2018-11,12/11/2018,Maïs Importé,Saint-Louis
+2018,2018-11,12/11/2018,Sorgho Importé,Saint-Louis
+2018,2018-11,12/11/2018,Riz Importé,Gouille Mbeuth
+2018,2018-11,12/11/2018,Riz Importé,Saint-Louis
+2018,2018-11,12/11/2018,Riz Importé,Mereto
+2018,2018-11,12/11/2018,Riz Importé,Kaffrine
+2018,2018-11,12/11/2018,Riz Importé Parfumé,Gouille Mbeuth
+2018,2018-11,12/11/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-11,12/11/2018,Riz Importé Parfumé,Mereto
+2018,2018-11,12/11/2018,Riz Importé Parfumé,Kaffrine
+2018,2018-11,12/11/2018,Riz,Gouille Mbeuth
+2018,2018-11,12/11/2018,Riz,Saint-Louis
+2018,2018-11,11/11/2018,Mil,Birkilane
+2018,2018-11,11/11/2018,Maïs,Birkilane
+2018,2018-11,11/11/2018,Riz Importé,Birkilane
+2018,2018-11,11/11/2018,Riz Importé Parfumé,Birkilane
+2018,2018-11,10/11/2018,Mil,Touba Toul
+2018,2018-11,10/11/2018,Maïs,Touba Toul
+2018,2018-11,10/11/2018,Maïs Importé,Touba Toul
+2018,2018-11,10/11/2018,Riz Importé,Touba Toul
+2018,2018-11,10/11/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-11,10/11/2018,Riz,Touba Toul
+2018,2018-11,09/11/2018,Mil,Porokhane
+2018,2018-11,09/11/2018,Mil,Mpal
+2018,2018-11,09/11/2018,Mil,Touba
+2018,2018-11,09/11/2018,Sorgho,Touba
+2018,2018-11,09/11/2018,Maïs,Porokhane
+2018,2018-11,09/11/2018,Maïs,Mpal
+2018,2018-11,09/11/2018,Maïs,Touba
+2018,2018-11,09/11/2018,Maïs Importé,Mpal
+2018,2018-11,09/11/2018,Maïs Importé,Touba
+2018,2018-11,09/11/2018,Sorgho Importé,Mpal
+2018,2018-11,09/11/2018,Riz Importé,Porokhane
+2018,2018-11,09/11/2018,Riz Importé,Mpal
+2018,2018-11,09/11/2018,Riz Importé,Touba
+2018,2018-11,09/11/2018,Riz Importé Parfumé,Touba
+2018,2018-11,09/11/2018,Riz,Mpal
+2018,2018-11,09/11/2018,Riz,Touba
+2018,2018-11,08/11/2018,Mil,Louga
+2018,2018-11,08/11/2018,Maïs,Louga
+2018,2018-11,08/11/2018,Maïs Importé,Louga
+2018,2018-11,08/11/2018,Riz Importé,Louga
+2018,2018-11,08/11/2018,Riz Importé Parfumé,Louga
+2018,2018-11,08/11/2018,Riz,Louga
+2018,2018-11,07/11/2018,Mil,Ourossogui
+2018,2018-11,07/11/2018,Maïs Importé,Ourossogui
+2018,2018-11,07/11/2018,Sorgho Importé,Ourossogui
+2018,2018-11,07/11/2018,Riz Importé,Ourossogui
+2018,2018-11,07/11/2018,Riz,Ourossogui
+2018,2018-11,06/11/2018,Mil,Thiodaye
+2018,2018-11,06/11/2018,Sorgho,Thiodaye
+2018,2018-11,06/11/2018,Maïs Importé,Thiodaye
+2018,2018-11,06/11/2018,Riz Importé,Thiodaye
+2018,2018-11,06/11/2018,Riz,Thiodaye
+2018,2018-11,05/11/2018,Mil,Saint-Louis
+2018,2018-11,05/11/2018,Mil,Gouille Mbeuth
+2018,2018-11,05/11/2018,Mil,Kaffrine
+2018,2018-11,05/11/2018,Maïs,Saint-Louis
+2018,2018-11,05/11/2018,Maïs,Gouille Mbeuth
+2018,2018-11,05/11/2018,Maïs,Kaffrine
+2018,2018-11,05/11/2018,Maïs Importé,Saint-Louis
+2018,2018-11,05/11/2018,Maïs Importé,Gouille Mbeuth
+2018,2018-11,05/11/2018,Sorgho Importé,Saint-Louis
+2018,2018-11,05/11/2018,Riz Importé,Saint-Louis
+2018,2018-11,05/11/2018,Riz Importé,Gouille Mbeuth
+2018,2018-11,05/11/2018,Riz Importé,Kaffrine
+2018,2018-11,05/11/2018,Riz Importé Parfumé,Saint-Louis
+2018,2018-11,05/11/2018,Riz Importé Parfumé,Gouille Mbeuth
+2018,2018-11,05/11/2018,Riz Importé Parfumé,Kaffrine
+2018,2018-11,05/11/2018,Riz,Saint-Louis
+2018,2018-11,05/11/2018,Riz,Gouille Mbeuth
+2018,2018-11,04/11/2018,Mil,Birkilane
+2018,2018-11,04/11/2018,Maïs,Birkilane
+2018,2018-11,04/11/2018,Riz Importé,Birkilane
+2018,2018-11,04/11/2018,Riz Importé Parfumé,Birkilane
+2018,2018-11,01/11/2018,Mil,Kaolack
+2018,2018-11,01/11/2018,Mil,Touba Toul
+2018,2018-11,01/11/2018,Maïs,Kaolack
+2018,2018-11,01/11/2018,Maïs Importé,Touba Toul
+2018,2018-11,01/11/2018,Riz Importé,Kaolack
+2018,2018-11,01/11/2018,Riz Importé,Touba Toul
+2018,2018-11,01/11/2018,Riz Importé Parfumé,Kaolack
+2018,2018-11,01/11/2018,Riz Importé Parfumé,Touba Toul
+2018,2018-11,01/11/2018,Riz,Kaolack
+2018,2018-11,01/11/2018,Riz,Touba Toul
+Année,Mois,,Type De Culture,Marché
