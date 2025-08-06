@@ -1,0 +1,91 @@
+version: '3.7'
+
+########################--------Bases de données------------#####################
+
+# Les bases de données qu'on va utilisées comme sources initiales des données 
+# mongo , postgres, mysql, cassandra
+services:
+    mongodb:
+      image: mongo:6
+      container_name: mongo_collecte365 
+      ports:
+        - 27025:27017  
+      volumes:
+       - ./Donnees_sources_bd/Mongodata:/data/db  
+      environment:
+        MONGO_INITDB_ROOT_USERNAME: admin
+        MONGO_INITDB_ROOT_PASSWORD: admin
+        
+      restart: unless-stopped 
+
+    mongo-express:
+      image: mongo-express
+      container_name: mongo-express_365
+      ports:
+        - "8088:8081"
+      environment:
+        - ME_CONFIG_MONGODB_SERVER=mongodb
+        - ME_CONFIG_BASICAUTH_USERNAME=admin
+        - ME_CONFIG_BASICAUTH_PASSWORD=admin
+      restart: unless-stopped
+      depends_on:
+        - mongodb
+
+    
+    postgres: 
+       image:  postgres:13
+       container_name: postgres_collecte365
+       ports:
+         - "5445:5432"
+       environment:
+          POSTGRES_USER: admin
+          POSTGRES_PASSWORD: admin
+          POSTGRES_DB: post_db_collect 
+       volumes:
+         - ./Donnees_sources_bd/Postgres:/var/lib/postgresql/data 
+       restart: unless-stopped 
+    mysql: 
+      image: mysql:latest 
+      container_name: mysql_collecte365
+      environment:
+         MYSQL_DATABASE: mysql_db_collecte
+         MYSQL_PASSWORD: admin 
+         MYSQL_ROOT_PASSWORD: admin
+      ports:
+        - "3310:3306"
+      volumes:
+        - ./Donnees_sources_bd/mysql:/var/lib/mysql  
+      restart: unless-stopped
+    
+    cassandra:
+        image: cassandra:4.1
+        container_name: cassandra365
+        ports:
+          - "9055:9042"
+        environment:
+          - CASSANDRA_CLUSTER_NAME=dev-cluster
+          - CASSANDRA_DC=datacenter1
+          - CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch
+        volumes:
+          - ./Donnees_sources_bd/cassandra:/var/lib/cassandra  
+        restart: unless-stopped
+  
+
+    neo4j_de_ben:      
+        image: neo4j:5.20
+        container_name: neo4j_collecte365
+        ports:
+          - "7475:7474"  
+          - "7688:7687"   
+        environment:
+          - NEO4J_AUTH=neo4j/admin
+        
+        volumes: 
+          - ./Donnees_sources_bd/neo4j/neo4j-data:/data 
+          -  ./Donnees_sources_bd/neo4j/neo4j-logs:/logs
+          -  ./Donnees_sources_bd/neo4j/neo4j-import:/var/lib/neo4j/import
+          -  ./Donnees_sources_bd/neo4j/neo4j-plugins:/plugins
+        restart: unless-stopped  
+
+
+###################----------- DataLake ---------######-----------#################
