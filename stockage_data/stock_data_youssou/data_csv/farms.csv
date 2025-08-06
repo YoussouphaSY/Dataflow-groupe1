@@ -1,0 +1,101 @@
+farm_id,owner,region,area_hectares,type,created_at
+6eb9ef09-8a0f-45f2-9737-0d6efaca9065,Jasmine Rogers,Ohio,139.87,Élevage,2022-07-28
+7911bbe1-667c-49f7-9edf-2cb8b763b188,Stephen Malone,New Hampshire,52.57,Céréales,2022-10-16
+5ed30fa0-411e-4e71-b807-71b7a104a63f,Laura Barker,Maine,125.23,Céréales,2024-08-09
+d9a3faa2-c4fd-4549-a11e-ac9d4976c883,Yvonne Grimes,West Virginia,6.94,Maraîchage,2025-07-08
+0fb0721c-aceb-4413-a8d0-bb4c54d6e1ab,Jennifer Miller,Hawaii,170.69,Élevage,2021-09-14
+b4d6af58-6d1d-428e-aa0f-c3bb12398e76,Danielle Stewart,Tennessee,149.98,Céréales,2020-09-18
+7d4cb007-4cf7-4785-a1de-6e09621c1b42,Erica Phillips,South Dakota,466.65,Maraîchage,2021-12-01
+e8b79f7f-45b2-4f10-be1b-671e2e936633,Tracy Hayes,Maryland,148.68,Maraîchage,2024-04-18
+84e065e7-7c89-4b5e-b697-767e350fa63d,Dylan Burns,Maryland,222.37,Élevage,2024-03-02
+87fff2e6-eaff-493b-986b-fec2242cfc03,Sara Allen,North Carolina,235.86,Maraîchage,2023-06-08
+2bef2b0a-9a29-4c20-9b4b-5054bb32984f,Heather Castillo,Hawaii,455.29,Mixte,2024-03-06
+be892706-0a69-4030-b073-bae608775325,Jamie Decker,New York,218.55,Céréales,2023-09-23
+eaddbb2f-407e-453b-b8ac-eed826d7fc41,Carrie Olson,North Carolina,446.49,Élevage,2022-12-29
+315e0a8e-4a6a-4d93-91da-d8df64123971,Jacob Vargas,Nebraska,123.61,Maraîchage,2024-07-15
+f4bf3bb1-198a-4e4b-8381-356c6bb1c841,Richard Scott,Rhode Island,162.43,Mixte,2022-05-13
+d1659c48-999d-4668-8085-d5a863c66e24,Katelyn Brown,Ohio,420.07,Céréales,2025-07-29
+5dcdf8d1-ba9c-49d7-9192-eb94905a0c93,Jeffrey Velazquez,Oklahoma,475.01,Céréales,2021-05-17
+f980308b-fa39-4013-90d5-521cf7c56713,Kayla Nunez,Montana,181.08,Maraîchage,2023-12-30
+e6bb2503-0bb1-4486-a93e-6bdcf03d65f9,David Kelly,Maine,102.21,Élevage,2022-11-05
+2861ef9b-ce9e-459f-b96e-5989f979d622,Shawn Holmes,New Mexico,243.2,Mixte,2023-02-07
+71ae145b-dbe2-493c-8085-091ff58c25c2,Glenn Meadows,Wisconsin,434.66,Élevage,2025-02-07
+94cf7ab2-fd25-4b1a-8320-a1ce8a7fd119,Rachel George,Colorado,339.07,Mixte,2022-06-18
+ec7a64fb-fb64-4710-9c35-d0ea0eb0f23d,Kyle Wu,Maine,36.62,Maraîchage,2021-09-02
+cd04c336-235c-4d17-a11e-5a8154f347d3,Savannah Brown,Delaware,35.35,Mixte,2021-09-08
+f0ea7d2a-d5a3-48bb-8157-294c39ab93fa,Stephen Austin,Louisiana,110.99,Céréales,2023-08-05
+53ef4d95-ec92-4a84-b5f7-f33450aef4ad,Ryan Pearson,New York,195.41,Élevage,2021-01-31
+4e07b7bf-8b4d-4658-89bb-846cf057c677,Katelyn Harris,New York,315.58,Maraîchage,2022-04-20
+c7117b72-3237-49b9-802a-c9a72f7d81f9,Matthew David,Arkansas,227.34,Céréales,2023-08-24
+33842288-936e-49d9-a0ac-221f5a042826,Ms. Sarah Sullivan,Nevada,259.63,Céréales,2022-07-21
+44f73e0b-50d9-4ef8-8550-c998c3cd354d,William Williamson,Virginia,401.68,Céréales,2024-04-23
+0de994fd-4691-4abe-9cec-d46eaa16eff8,Ian Macdonald,Missouri,195.73,Élevage,2023-10-20
+672ecf12-ebda-4e0f-92a4-67c2d9d1c0c4,Ashley Daniel,Maryland,458.16,Maraîchage,2025-02-05
+7e1d3818-1269-4a97-bc70-8385412d4b8f,Daniel Ellis,Wisconsin,308.86,Mixte,2021-04-27
+5ca6a9e5-9cfc-441e-8fcb-80a7b7476c39,George Esparza,Indiana,413.4,Élevage,2023-07-25
+33d8d9ea-6a2c-4170-9b56-42c043b2526d,Mary Day,Montana,283.96,Céréales,2024-05-04
+5190595c-ec1c-41cf-971f-07589816cb63,Chad Wood,Connecticut,141.25,Maraîchage,2022-01-29
+0305c006-1b34-4e8f-8f80-cb07dde07eec,Mark Coleman,New Jersey,13.65,Élevage,2025-06-01
+e24b9bad-c494-4582-8759-9418b546cb06,Jonathan Anthony,Michigan,153.38,Céréales,2025-05-04
+aed3495d-96fe-49a8-9cd0-a018263cad14,Eric Lowe,Maine,421.09,Céréales,2022-08-28
+2d4c81ec-145e-4648-aa54-7c6aa3170a24,Yvonne Dyer,Minnesota,148.04,Mixte,2023-09-30
+cd73407b-28a6-491e-824b-c4f5449671e2,Kayla Lowe,Wisconsin,55.48,Élevage,2021-11-03
+23042886-b264-48f3-b082-fd49415da27d,Eric Hodge,Rhode Island,345.3,Élevage,2021-02-06
+3f739690-7bd2-44fe-9320-bb97a0224d25,David Jones,Arizona,58.76,Mixte,2022-10-04
+ba69452d-72c3-452d-80cd-ea9dcaa6c476,Joseph Martin,Arizona,295.49,Maraîchage,2020-09-10
+a038e19a-7453-43ca-93e8-97eac3c3b038,Peter Anderson,Pennsylvania,232.88,Céréales,2021-04-05
+165b3bd1-1ca2-4557-9ea7-28240c586166,Charles Allen,California,278.29,Élevage,2025-03-28
+9e4b0118-1ac8-4370-8ef8-3c605ca39e61,Melissa Orr,Georgia,73.36,Maraîchage,2025-07-04
+ebc5ffd1-fc00-4f40-9304-80a6e9eb33a1,Crystal Frye,Vermont,42.86,Élevage,2022-11-04
+e5bc4cae-5175-4a42-8b2c-b105eea70ae0,Joel Anderson,Florida,338.88,Mixte,2021-07-04
+cdf48d44-ddb3-4c96-b8cb-46ff7e721c50,Jordan Stone,Pennsylvania,186.75,Élevage,2024-12-10
+646e9776-c87e-4ee9-830a-ad239621ff23,Virginia Freeman,Georgia,353.15,Élevage,2024-03-22
+49e75dcf-519f-4ea1-ae06-e26a4a5d12d4,Allison Ortiz,Arkansas,83.3,Maraîchage,2024-10-12
+31c4f1e5-41ec-497a-a73d-3bf09a99439b,Brittany Blankenship,Nebraska,307.9,Mixte,2024-09-04
+1f999b5d-407f-4c82-999b-64474426e277,Dr. John Brown,South Dakota,416.79,Céréales,2024-05-08
+2d39b403-e1b2-41a6-a3dd-e55a473cb4ec,Richard Johnson,Iowa,246.87,Élevage,2021-06-06
+3b89d7e8-573f-4cc5-a780-a5f9b7386c36,Katherine Daniels,Vermont,238.66,Mixte,2023-05-28
+ad3cf3bf-4d27-40e4-b9e5-793f5e672ad6,Christine Ray,Wyoming,48.34,Maraîchage,2021-05-01
+ac0d8096-bf91-485e-8a98-30accda12023,Jacob Silva,Wyoming,437.32,Mixte,2023-03-24
+aa8982af-ec29-476a-a0be-662f2ca94724,Stacy Michael,South Carolina,378.45,Céréales,2023-08-21
+03919fd3-c0e2-41d3-91e5-b0fa838a28d5,Eric Wilcox,Hawaii,275.29,Élevage,2022-01-01
+6e6e30e7-d6e0-434e-aa7c-f717be069646,Lauren Bartlett,Minnesota,476.98,Élevage,2022-08-24
+8d7f0bf0-0ddd-4186-9ef2-9fa05363e537,Daniel Herrera,West Virginia,474.67,Élevage,2025-07-21
+2c5b59df-f6f8-4545-806e-e4f5c2d2471e,Sara Tran,Wisconsin,4.18,Maraîchage,2020-11-30
+a2684ecb-ae01-4ab2-998f-5059cd7e3983,Joshua Melendez,North Carolina,230.95,Maraîchage,2022-08-15
+fc450f80-a659-43f1-9e6a-3c8e4e1bd759,Emily Pennington,South Carolina,314.35,Maraîchage,2021-03-23
+de5bdade-e70c-47b7-a41e-2311df554560,Daniel Mills,California,375.33,Élevage,2022-07-27
+2832511e-7827-4f2c-90e8-98a9c6408063,Nathaniel Short,Arkansas,294.23,Mixte,2020-09-13
+daeaed7b-d4b3-40ea-9fec-275b157159e4,John Frank,Indiana,50.4,Céréales,2022-03-10
+b24d427d-b208-4860-b119-fbb371b11e83,Richard Elliott,Illinois,157.85,Maraîchage,2024-10-20
+ac311ae4-afbe-45ee-8d29-3b9ae178ff7d,Tonya Jones,Oregon,273.86,Élevage,2021-12-17
+8e540668-d8b7-4fa9-8f6c-8e9bb2bf56bf,Ronald Brown,North Carolina,197.49,Élevage,2022-01-19
+0041cdb2-1111-4590-92a9-fc87a810c64b,Bruce Hendricks,Nevada,464.12,Mixte,2025-07-19
+96530a3f-5238-4611-abfa-6cce5fff4b6c,Makayla Montgomery,Delaware,485.29,Maraîchage,2020-09-04
+40b33096-dbf6-4287-bc51-3a94126583a5,Dylan Lucas,Nevada,204.79,Mixte,2023-05-11
+d129a965-daba-4a91-8ae2-01f6931f1ce7,William Hood,Kansas,135.13,Élevage,2022-07-07
+51875acb-1fee-482f-b059-bb6f496c103a,Daniel Goodman,Wisconsin,90.78,Élevage,2021-06-30
+9c6ce3b3-3d56-4e5e-a7ad-06f307710f68,Jessica Mcdonald,Arkansas,247.76,Maraîchage,2025-03-25
+f89e6ee4-ad6f-4582-8335-075b05d1dd35,Benjamin Christian,Colorado,463.71,Céréales,2025-04-21
+a3369fb0-69df-4a04-aafa-862dff391a67,Richard Young,Vermont,50.83,Maraîchage,2021-04-23
+719b8292-6bfe-451e-bcec-229d4846a788,Debra Sanders,Kentucky,183.5,Maraîchage,2023-09-28
+fdb47405-e04f-404f-a008-630e277d4b61,Mary Robinson,New York,357.02,Mixte,2024-03-23
+a98bff83-1e2c-4658-bed4-071ef1355d52,Casey Young,Maine,180.87,Mixte,2023-01-06
+814d21f2-9932-493e-883f-f43520502350,Mr. Kenneth Anderson,Nebraska,213.23,Mixte,2024-08-04
+227a8139-d565-4825-b0f4-7cbbfbb77396,Heidi Smith,Kentucky,314.19,Céréales,2022-03-31
+c4e0156c-9c26-4dd6-9e63-8e01eac72182,Richard Butler,Nevada,44.99,Céréales,2022-05-01
+1a5113b3-aa0a-4363-8b57-b95d92a698c4,Andrew Mclaughlin,Utah,171.2,Maraîchage,2021-05-30
+6479397c-8dcd-4564-8721-9c3d0b698b59,Daniel Rivera,North Dakota,102.73,Mixte,2024-11-21
+29d4325d-01f2-4659-ad7c-e21dd423bf8d,Elizabeth Butler,Utah,432.35,Élevage,2023-10-04
+375b53c6-258f-4329-9321-3696faab55d0,Kristen Martin,Connecticut,374.76,Mixte,2022-06-11
+6e1c99e2-b1be-4389-ad96-f20b6343bb6e,Matthew Cooke,South Carolina,184.3,Élevage,2021-04-08
+94f82065-d9e1-4f51-8009-1acbbeec060c,Kyle Nichols,New Mexico,145.65,Maraîchage,2021-10-24
+4bce7a13-de39-46ae-917a-4a75a653e3e5,Jason Ortiz,Rhode Island,370.01,Mixte,2023-02-20
+27335b47-ab46-4dc7-92f2-45a073823e4e,Tamara Allen,Vermont,311.0,Maraîchage,2025-03-09
+c15823b9-acb0-4e72-ba2c-80ff335cf4fd,Brittany Santiago,Indiana,130.14,Maraîchage,2020-08-15
+716aaeda-407d-46d3-bea4-897029493531,Jeffrey Ellis,Missouri,293.56,Mixte,2022-08-04
+7a695a2f-ce2f-4293-bf4b-06630f3a232f,Kyle Matthews,Florida,292.4,Céréales,2025-06-02
+dbb7df5f-be61-4366-b6cd-4e3431c82e35,Holly Wood,Massachusetts,346.63,Mixte,2021-05-05
+f2a1d2cc-c31b-44ce-a2ce-1b968a5eec11,Brandon Obrien,California,307.23,Céréales,2022-06-12
+9c657a69-e9cc-40b6-b29d-393f3bf81058,Brandon Rosales,North Carolina,323.76,Élevage,2021-11-04
+ba645a17-838e-44ac-a7a4-124415fc5f35,Christina Stafford,Alaska,462.14,Céréales,2024-01-31

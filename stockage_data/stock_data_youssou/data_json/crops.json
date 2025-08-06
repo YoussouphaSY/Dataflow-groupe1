@@ -1,0 +1,44 @@
+[
+    {
+        "crop_id": 1,
+        "name": "Mil",
+        "season": "Saison sèche",
+        "avg_yield_kg_per_hectare": 3039.04
+    },
+    {
+        "crop_id": 2,
+        "name": "Maïs",
+        "season": "Contre-saison",
+        "avg_yield_kg_per_hectare": 5424.17
+    },
+    {
+        "crop_id": 3,
+        "name": "Sorgho",
+        "season": "Contre-saison",
+        "avg_yield_kg_per_hectare": 7492.15
+    },
+    {
+        "crop_id": 4,
+        "name": "Riz",
+        "season": "Contre-saison",
+        "avg_yield_kg_per_hectare": 2160.37
+    },
+    {
+        "crop_id": 5,
+        "name": "Arachide",
+        "season": "Hivernage",
+        "avg_yield_kg_per_hectare": 3991.58
+    },
+    {
+        "crop_id": 6,
+        "name": "Oignon",
+        "season": "Hivernage",
+        "avg_yield_kg_per_hectare": 3047.65
+    },
+    {
+        "crop_id": 7,
+        "name": "Tomate",
+        "season": "Contre-saison",
+        "avg_yield_kg_per_hectare": 4834.13
+    }
+]
