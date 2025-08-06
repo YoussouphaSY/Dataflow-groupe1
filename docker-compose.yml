@@ -1,0 +1,60 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres_dataflow
+    restart: always
+    environment:
+      POSTGRES_DB: agri_data
+      POSTGRES_USER: aminata
+      POSTGRES_PASSWORD: passer
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
+
+  mysql: 
+    image: mysql:latest 
+    container_name: mysql_dataflow 
+    environment:
+      MYSQL_DATABASE: agriculture_db
+      MYSQL_PASSWORD: admin 
+      MYSQL_ROOT_PASSWORD: admin
+    ports:
+      - "3305:3306"
+    volumes:
+      - ./donnees_collectes_you/mysql:/var/lib/mysql
+      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo_dataflow
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
+    environment:
+      MONGO_INITDB_DATABASE: agri_mongo
+
+  neo4j:
+    image: neo4j:5.20
+    container_name: neo4j_dataflow
+    restart: unless-stopped
+    ports:
+      - "7474:7474"     
+      - "7687:7687"    
+    environment:
+      NEO4J_AUTH: neo4j/test1234
+    volumes:
+      - neo4j_data:/data
+      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
+
+volumes:
+  pg_data:
+  mongo_data:
+  neo4j_data:
