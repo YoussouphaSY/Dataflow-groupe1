@@ -77,9 +77,8 @@ services:
       NEO4J_AUTH: neo4j/test1234
     volumes:
       - neo4j_data:/data
-      - ./stockage_data/stock_data_mariama/databug_csv:/import/CSV
-      - ./stockage_data/stock_data_mariama/databug_json:/import/JSON
-      - ./stockage_data/stock_data_mariama/databug_xml:/import/XML
+      - ./stockage_data/neo4j_import:/import
+     
 
 ###################----------- Hadoop ---------#################
 
