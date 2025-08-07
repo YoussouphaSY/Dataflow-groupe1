@@ -34,7 +34,7 @@ class Gestion_des_donnees:
         listes_des_fichiers = []
         for root, dirs, files in os.walk(self.dossiers):
             for file in files:
-                if file.endswith('.csv') or file.endswith('.xls' or '.xlsx'):
+                if file.endswith('.csv') or file.endswith('.xls' or '.xlsx') or file.endswith('.json'):
                     full_path = os.path.join(root, file)
                     listes_des_fichiers.append(full_path)
         return listes_des_fichiers
@@ -59,6 +59,15 @@ class Gestion_des_donnees:
             elif el.endswith('.xls'or '.xlsx'):
                 pd_excel = pd.read_excel(el)
                 pd_excel.to_sql(
+                    name=nom_du_table,
+                    con= self.postgres_connection,
+                    if_exists="replace",
+                    index=False
+                )
+
+            elif el.endswith('.json'):
+                pd_json = pd.read_json(el)
+                pd_json.to_sql(
                     name=nom_du_table,
                     con= self.postgres_connection,
                     if_exists="replace",
