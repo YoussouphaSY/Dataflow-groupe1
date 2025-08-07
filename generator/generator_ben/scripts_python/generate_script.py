@@ -34,7 +34,7 @@ class Gestion_des_donnees:
         listes_des_fichiers = []
         for root, dirs, files in os.walk(self.dossiers):
             for file in files:
-                if file.endswith('.csv') or file.endswith('.xls'):
+                if file.endswith('.csv') or file.endswith('.xls' or '.xlsx'):
                     full_path = os.path.join(root, file)
                     listes_des_fichiers.append(full_path)
         return listes_des_fichiers
@@ -65,8 +65,4 @@ class Gestion_des_donnees:
                     index=False
                 )
 
-if __name__ == "__main__":
-    doc = "./stockage_data/stock_data_ben/sources_donnees2"
-    print(os.listdir(doc))
-    dossiers = Gestion_des_donnees(doc)
-    dossiers.Postgres_ingection()
+
