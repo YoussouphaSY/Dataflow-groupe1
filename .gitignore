@@ -1,1 +1,3 @@
-donnees_collectes_you/mysql/
+donnees_collectes_you/
+.env/
+Donnees_source_bd/
