@@ -85,7 +85,44 @@ services:
           -  ./Donnees_sources_bd/neo4j/neo4j-logs:/logs
           -  ./Donnees_sources_bd/neo4j/neo4j-import:/var/lib/neo4j/import
           -  ./Donnees_sources_bd/neo4j/neo4j-plugins:/plugins
-        restart: unless-stopped  
+        restart: unless-stopped 
+
+    namenode:
+          image: apache/hadoop:3
+          container_name: namenode360
+          hostname: namenode
+          command: ["hdfs", "namenode"]
+          ports:
+            - 9870:9870
+          env_file:
+            - ./config
+          environment:
+              ENSURE_NAMENODE_DIR: "/tmp/hadoop-root/dfs/name"
+          volumes:
+            - ./stockage_data/:/data
+    datanode:
+          image: apache/hadoop:3
+          container_name: datanode360
+          command: ["hdfs", "datanode"]
+          env_file:
+            - ./config      
+    resourcemanager:
+          image: apache/hadoop:3
+          container_name: resourcemanager360
+          hostname: resourcemanager
+          command: ["yarn", "resourcemanager"]
+          ports:
+            - 9088:8088
+          env_file:
+            - ./config
+          volumes:
+            - ./test.sh:/opt/test.sh
+    nodemanager:
+          image: apache/hadoop:3
+          container_name: nodemanager360
+          command: ["yarn", "nodemanager"]
+          env_file:
+            - ./config 
 
 
 ###################----------- DataLake ---------######-----------#################

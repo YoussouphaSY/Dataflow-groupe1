@@ -26,7 +26,7 @@ data = [
 ]
 
 # Écriture des données dans un fichier JSON avec indentation lisible et encodage UTF-8
-with open("stockage_data/stockage_youssou/data_json/crops.json", "w", encoding="utf-8") as f:
+with open("stockage_data/stock_data_youssou/data_json/crops.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 
 print("crops.json généré avec succès !")

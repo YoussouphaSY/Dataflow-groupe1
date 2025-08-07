@@ -59,7 +59,7 @@ def get_weather_xml(lat=14.6928, lon=-17.4467):
         xml_tree = json_to_xml(data)  # Conversion en XML
 
         # Création du dossier s'il n'existe pas
-        os.makedirs("stockage_data/data_xml", exist_ok=True)
+        os.makedirs("stockage_youssou/data_xml", exist_ok=True)
 
         # Écriture du fichier XML
         xml_tree.write("stockage_data/stockage_youssou/data_xml/weather_data.xml", encoding="utf-8", xml_declaration=True)
