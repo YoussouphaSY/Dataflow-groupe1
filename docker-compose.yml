@@ -71,37 +71,20 @@ services:
         restart: unless-stopped
   
 
-<<<<<<< HEAD
-  neo4j:
-    image: neo4j:5.20
-    container_name: neo4j_dataflow
-    restart: unless-stopped
-    ports:
-      - "7474:7474"     
-      - "7687:7687"    
-    environment:
-      NEO4J_AUTH: neo4j/test1234
-    volumes:
-      - neo4j_data:/data
-      - .stockage_data/stock_data_mariama/databug_csv/producteurs.csv:/var/lib/stockage_data
-=======
-    neo4j_de_ben:      
-        image: neo4j:5.20
-        container_name: neo4j_collecte365
-        ports:
-          - "7475:7474"  
-          - "7688:7687"   
-        environment:
-          - NEO4J_AUTH=neo4j/admin
-        
-        volumes: 
-          - ./Donnees_sources_bd/neo4j/neo4j-data:/data 
-          -  ./Donnees_sources_bd/neo4j/neo4j-logs:/logs
-          -  ./Donnees_sources_bd/neo4j/neo4j-import:/var/lib/neo4j/import
-          -  ./Donnees_sources_bd/neo4j/neo4j-plugins:/plugins
-        restart: unless-stopped 
->>>>>>> 0ad608784bb191084ec80c3d2e2b0bd85eda50ed
 
+    neo4j:
+      image: neo4j:5.20
+      container_name: neo4j_dataflow
+      restart: unless-stopped
+      ports:
+        - "7474:7474"     
+        - "7687:7687"    
+      environment:
+        NEO4J_AUTH: neo4j/test1234
+      volumes:
+        - neo4j_data:/data
+        - ./stockage_data/stock_data_mariama/databug_csv/producteurs.csv:/import
+ 
     namenode:
           image: apache/hadoop:3
           container_name: namenode360
