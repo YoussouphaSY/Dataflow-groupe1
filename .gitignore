@@ -1,0 +1,5 @@
+./Donnees_sources_bd/cassandra
+./Donnees_sources_bd/Mongodata
+./Donnees_sources_bd/mysql
+./Donnees_sources_bd/neo4j
+./Donnees_sources_bd/Postgres
