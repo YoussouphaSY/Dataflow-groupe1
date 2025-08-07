@@ -52,7 +52,7 @@ services:
       NEO4J_AUTH: neo4j/test1234
     volumes:
       - neo4j_data:/data
-      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
+      - .stockage_data/stock_data_mariama/databug_csv/producteurs.csv:/var/lib/stockage_data
 
 volumes:
   pg_data:
