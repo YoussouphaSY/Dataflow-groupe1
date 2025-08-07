@@ -1,46 +1,77 @@
-version: "3.9"
+version: '3.7'
 
+########################--------Bases de données------------#####################
+
+# Les bases de données qu'on va utilisées comme sources initiales des données 
+# mongo , postgres, mysql, cassandra
 services:
-  postgres:
-    image: postgres:15
-    container_name: postgres_dataflow
-    restart: always
-    environment:
-      POSTGRES_DB: agri_data
-      POSTGRES_USER: aminata
-      POSTGRES_PASSWORD: passer
-    ports:
-      - "5432:5432"
-    volumes:
-      - pg_data:/var/lib/postgresql/data
-      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
+    mongodb:
+      image: mongo:6
+      container_name: mongo_collecte365 
+      ports:
+        - 27025:27017  
+      volumes:
+       - ./Donnees_sources_bd/Mongodata:/data/db  
+      environment:
+        MONGO_INITDB_ROOT_USERNAME: admin
+        MONGO_INITDB_ROOT_PASSWORD: admin
+        
+      restart: unless-stopped 
 
-  mysql: 
-    image: mysql:latest 
-    container_name: mysql_dataflow 
-    environment:
-      MYSQL_DATABASE: agriculture_db
-      MYSQL_PASSWORD: admin 
-      MYSQL_ROOT_PASSWORD: admin
-    ports:
-      - "3305:3306"
-    volumes:
-      - ./donnees_collectes_you/mysql:/var/lib/mysql
-      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
-    restart: unless-stopped
+    mongo-express:
+      image: mongo-express
+      container_name: mongo-express_365
+      ports:
+        - "8088:8081"
+      environment:
+        - ME_CONFIG_MONGODB_SERVER=mongodb
+        - ME_CONFIG_BASICAUTH_USERNAME=admin
+        - ME_CONFIG_BASICAUTH_PASSWORD=admin
+      restart: unless-stopped
+      depends_on:
+        - mongodb
 
-  mongo:
-    image: mongo:latest
-    container_name: mongo_dataflow
-    restart: unless-stopped
-    ports:
-      - "27017:27017"
-    volumes:
-      - mongo_data:/data/db
-      - /home/exemplesy/Bureau/ODC/DataFlow360/DataFlow360/stockage_data:/var/lib/stockage_data
-    environment:
-      MONGO_INITDB_DATABASE: agri_mongo
+    
+    postgres: 
+       image:  postgres:13
+       container_name: postgres_collecte365
+       ports:
+         - "5445:5432"
+       environment:
+          POSTGRES_USER: admin
+          POSTGRES_PASSWORD: admin
+          POSTGRES_DB: post_db_collect 
+       volumes:
+         - ./Donnees_sources_bd/Postgres:/var/lib/postgresql/data 
+       restart: unless-stopped 
+    mysql: 
+      image: mysql:latest 
+      container_name: mysql_collecte365
+      environment:
+         MYSQL_DATABASE: mysql_db_collecte
+         MYSQL_PASSWORD: admin 
+         MYSQL_ROOT_PASSWORD: admin
+      ports:
+        - "3310:3306"
+      volumes:
+        - ./Donnees_sources_bd/mysql:/var/lib/mysql  
+      restart: unless-stopped
+    
+    cassandra:
+        image: cassandra:4.1
+        container_name: cassandra365
+        ports:
+          - "9055:9042"
+        environment:
+          - CASSANDRA_CLUSTER_NAME=dev-cluster
+          - CASSANDRA_DC=datacenter1
+          - CASSANDRA_ENDPOINT_SNITCH=GossipingPropertyFileSnitch
+        volumes:
+          - ./Donnees_sources_bd/cassandra:/var/lib/cassandra  
+        restart: unless-stopped
+  
 
+<<<<<<< HEAD
   neo4j:
     image: neo4j:5.20
     container_name: neo4j_dataflow
@@ -53,8 +84,60 @@ services:
     volumes:
       - neo4j_data:/data
       - .stockage_data/stock_data_mariama/databug_csv/producteurs.csv:/var/lib/stockage_data
+=======
+    neo4j_de_ben:      
+        image: neo4j:5.20
+        container_name: neo4j_collecte365
+        ports:
+          - "7475:7474"  
+          - "7688:7687"   
+        environment:
+          - NEO4J_AUTH=neo4j/admin
+        
+        volumes: 
+          - ./Donnees_sources_bd/neo4j/neo4j-data:/data 
+          -  ./Donnees_sources_bd/neo4j/neo4j-logs:/logs
+          -  ./Donnees_sources_bd/neo4j/neo4j-import:/var/lib/neo4j/import
+          -  ./Donnees_sources_bd/neo4j/neo4j-plugins:/plugins
+        restart: unless-stopped 
+>>>>>>> 0ad608784bb191084ec80c3d2e2b0bd85eda50ed
 
-volumes:
-  pg_data:
-  mongo_data:
-  neo4j_data:
+    namenode:
+          image: apache/hadoop:3
+          container_name: namenode360
+          hostname: namenode
+          command: ["hdfs", "namenode"]
+          ports:
+            - 9870:9870
+          env_file:
+            - ./config
+          environment:
+              ENSURE_NAMENODE_DIR: "/tmp/hadoop-root/dfs/name"
+          volumes:
+            - ./stockage_data/:/data
+    datanode:
+          image: apache/hadoop:3
+          container_name: datanode360
+          command: ["hdfs", "datanode"]
+          env_file:
+            - ./config      
+    resourcemanager:
+          image: apache/hadoop:3
+          container_name: resourcemanager360
+          hostname: resourcemanager
+          command: ["yarn", "resourcemanager"]
+          ports:
+            - 9088:8088
+          env_file:
+            - ./config
+          volumes:
+            - ./test.sh:/opt/test.sh
+    nodemanager:
+          image: apache/hadoop:3
+          container_name: nodemanager360
+          command: ["yarn", "nodemanager"]
+          env_file:
+            - ./config 
+
+
+###################----------- DataLake ---------######-----------#################

@@ -42,7 +42,7 @@ def generate_farms(n=100):
     df = pd.DataFrame(data)
 
     # Enregistrement au format CSV
-    df.to_csv("stockage_data/stockage_youssou/data_csv/farms.csv", index=False)
+    df.to_csv("stockage_data/stock_data_youssou/data_json/farms.csv", index=False)
     print("farms.csv généré avec succès !")
 
 if __name__ == "__main__":
