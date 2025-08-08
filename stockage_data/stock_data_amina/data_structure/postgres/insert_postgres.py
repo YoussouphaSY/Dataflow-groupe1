@@ -64,7 +64,7 @@ conn.commit()
 # -------------------------------
 try:
     today = pd.Timestamp.today().strftime('%Y-%m-%d')
-    csv_path = f"stockage_data/stock_data_amina/csv/scraped_agri_data.csv"
+    csv_path = f"/stockage_data/stock_data_amina/csv/scraped_agri_dat"
     df = pd.read_csv(csv_path)
     print(f"✅ Lecture du fichier : {csv_path}")
 except Exception as e:
