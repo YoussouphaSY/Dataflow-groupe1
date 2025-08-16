@@ -1,0 +1,17 @@
+exit 
+db.scraped_agri_data_2025_08_08.find().pretty()
+show collections 
+clear
+documents = collection.find()
+show collections 
+use Donnees_collectes
+show dbs 
+help
+show dbs 
+exit 
+show dbs
+exit 
+show dbs;
+show dbs 
+help
+show databases ;
