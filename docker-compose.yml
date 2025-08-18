@@ -1,4 +1,4 @@
-########################--------Bases de données------------#####################
+version: "3.8"
 
 services:
 
@@ -12,7 +12,9 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin
       MONGO_INITDB_ROOT_PASSWORD: admin
-    restart: unless-stopped 
+    restart: unless-stopped
+    networks:
+      - dataflow-net
 
   mongo-express:
     image: mongo-express
@@ -26,6 +28,8 @@ services:
     restart: unless-stopped
     depends_on:
       - mongodb
+    networks:
+      - dataflow-net
 
   postgres: 
     image: postgres:13
@@ -37,8 +41,11 @@ services:
       POSTGRES_PASSWORD: admin
       POSTGRES_DB: post_db_collect 
     volumes:
-      - ./Donnees_sources_bd/Postgres:/var/lib/postgresql/data 
-    restart: unless-stopped 
+      - ./Donnees_sources_bd/Postgres_new:/var/lib/postgresql/data
+ 
+    restart: unless-stopped
+    networks:
+      - dataflow-net
 
   mysql: 
     image: mysql:latest 
@@ -52,6 +59,8 @@ services:
     volumes:
       - ./Donnees_sources_bd/mysql:/var/lib/mysql  
     restart: unless-stopped
+    networks:
+      - dataflow-net
 
   cassandra:
     image: cassandra:4.1
@@ -65,6 +74,8 @@ services:
     volumes:
       - ./Donnees_sources_bd/cassandra:/var/lib/cassandra  
     restart: unless-stopped
+    networks:
+      - dataflow-net
 
   neo4j:
     image: neo4j:5.20
@@ -80,8 +91,8 @@ services:
       - ./stockage_data/stock_data_mariama/databug_csv:/import/CSV
       - ./stockage_data/stock_data_mariama/databug_json:/import/JSON
       - ./stockage_data/stock_data_mariama/databug_xml:/import/XML
-
-###################----------- Hadoop ---------#################
+    networks:
+      - dataflow-net
 
   namenode:
     image: apache/hadoop:3
@@ -90,19 +101,24 @@ services:
     command: ["hdfs", "namenode"]
     ports:
       - 9870:9870
+      - 9864:9864
     env_file:
       - ./config
     environment:
       ENSURE_NAMENODE_DIR: "/tmp/hadoop-root/dfs/name"
     volumes:
       - ./stockage_data/:/data
+    networks:
+      - dataflow-net
 
   datanode:
     image: apache/hadoop:3
     container_name: datanode360
     command: ["hdfs", "datanode"]
     env_file:
-      - ./config      
+      - ./config
+    networks:
+      - dataflow-net
 
   resourcemanager:
     image: apache/hadoop:3
@@ -115,15 +131,37 @@ services:
       - ./config
     volumes:
       - ./test.sh:/opt/test.sh
+    networks:
+      - dataflow-net
 
   nodemanager:
     image: apache/hadoop:3
     container_name: nodemanager360
     command: ["yarn", "nodemanager"]
     env_file:
-      - ./config 
-
-###################----------- Volumes ---------#################
+      - ./config
+    networks:
+      - dataflow-net
+    
+  script_python:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: script_python360_2
+    command: tail -f /dev/null
+    depends_on:
+      - mongodb
+      - namenode
+    volumes:
+      - ./data-lake/stock_datalake_youssou/datalake_mysal:/root/scripts/mysql
+      - ./data-lake/stock_datalake_youssou/datalake_mongo:/root/scripts/mongo
+      - ./data-lake/stock_datalake_youssou/datalake_postgres:/root/scripts/postgres
+    networks:
+      - dataflow-net
 
 volumes:
   neo4j_data:
+
+networks:
+  dataflow-net:
+    driver: bridge
