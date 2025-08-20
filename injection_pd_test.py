@@ -26,3 +26,6 @@ if __name__ == "__main__":
     # print(os.listdir(doc3))
     #dossier3 = Gestion_des_donnees(doc3)
     #dossier3.creer_collection()
+
+    # Donnees Stock en cassandra 
+    
