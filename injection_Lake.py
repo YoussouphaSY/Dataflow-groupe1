@@ -5,5 +5,6 @@ import GestionLake
 if __name__=="__main__":
 
     ingestion = GestionLake()
-    print(ingestion.voir_listes_tables())
-    ingestion.mysql_to_hdfs()
+    print(ingestion.voir_listes_tablesMysql())
+    #ingestion.mysql_to_hdfs()
+    ingestion.postgres_to_hdfs()
