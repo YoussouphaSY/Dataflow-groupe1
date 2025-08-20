@@ -30,20 +30,19 @@ class GestionLake(GestionnairesConnexion):
         return tables["table_name"].tolist()
         
     def mysql_to_hdfs(self):
-        resultats = []
         for el in self.voir_listes_tablesMysql():
             df = pd.read_sql(f"SELECT * FROM {el}", self.mysql_connection)
             parquet_file = f"{el}.parquet"
             df.to_parquet(parquet_file, engine='pyarrow', index=False)
-            resultat = self.client_hadoop.upload(f"/user/hadoop/{parquet_file}", parquet_file, overwrite=True)
-            resultats.append(resultat)
+            self.client_hadoop.upload(f"/user/hadoop/{parquet_file}",parquet_file, overwrite=True)
             os.remove(parquet_file)  
-        return resultats
-    
+
+
     def postgres_to_hdfs(self):
         for el in self.voirlistes_tablesPostgres():
             df = pd.read_sql(f"SELECT * FROM {el}", self.postgres_connection)
             parquet_file = f"{el}.parquet"
             df.to_parquet(parquet_file, engine='pyarrow', index=False)
             self.client_hadoop.upload(f"/user/hadoop/{parquet_file}", parquet_file, overwrite=True)
+            os.remove(parquet_file)
 

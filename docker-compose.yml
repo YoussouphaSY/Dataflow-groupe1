@@ -107,6 +107,7 @@ services:
         ENSURE_NAMENODE_DIR: "/tmp/hadoop-root/dfs/name"
       volumes:
         - ./hadoop_namenode:/tmp/hadoop-root/dfs/name
+        - ./exports:/user/hadoop
 
     datanode:
       image: apache/hadoop:3.3.5
